@@ -164,7 +164,7 @@
 
 <img src="assets/images/qiita-crystal-2017.png" width="55%">
 
-###### author: [@yahhonob](https://twitter.com/yahhonob)
+###### author: [@yahhonob](https://twitter.com/yahhonob)さん
 
 ---
 

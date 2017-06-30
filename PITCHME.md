@@ -37,13 +37,13 @@ d = "d"
 
 # 箇条書きのテスト
 
-* aaa
-* bbb
-* ccc |
-* ddd
-* eee
-* fff |
-* ggg
+- aaa
+- bbb
+- ccc |
+- ddd
+- eee
+- fff |
+- ggg
 
 
 ### おわり

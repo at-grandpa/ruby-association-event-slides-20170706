@@ -103,21 +103,21 @@
 
 ## 技術書典２
 
-<img src="assets/images/blog-05-techbookfest2.png" width="50%">
+<img src="assets/images/blog-05-techbookfest2.png" width="45%">
 
 
 ---
 
 ## 技術書典３ 開催決定 🎉
 
-<img src="assets/images/techbookfest3.png" width="70%">
+<img src="assets/images/techbookfest3.png" width="65%">
 
 
 ---
 
 ### Crystalのこれまでの歩みと
 ### v1.0 に向けたロードマップ
-##### 2017.07.06 [@at_grandpa](https://twitter.com/at_grandpa)
+##### 2017.07.06 @at_grandpa
 
 
 ---
@@ -146,6 +146,10 @@
 
 ### contributorの方🙋
 
++++
+
+### ご清聴ありがとうございました🙇
+
 ---
 
 ### crystalについて
@@ -155,18 +159,18 @@
 
 ### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
 
-<img src="assets/images/qiita-crystal-2017.png" width="60%">
+<img src="assets/images/qiita-crystal-2017.png" width="55%">
 
 ###### author: [@yahhonob](https://twitter.com/yahhonob)
 
 ---
 
-## github stars⭐
+## Github Stars⭐
 
 ---
 
-## 現時点では...
-## [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
+### 現時点では...
+### [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
 
 ---
 

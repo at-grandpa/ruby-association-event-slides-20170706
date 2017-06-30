@@ -302,12 +302,23 @@ $ crystal run src/kemal_test.cr
 
 ### ライブラリを紹介しているサイト
 
----
-
-###
-
 
 ---
+
+### [AWESOME CRYSTAL](http://awesome-crystal.com/)
+
+<img src="assets/images/awesome-crystal.png" width="60%">
+
+
+---
+
+### [CrystalShards](http://crystalshards.xyz/)
+
+<img src="assets/images/crystalshards-xyz.png" width="60%">
+
+
+---
+
 ### 3枚目のスライド
 
 ```crystal

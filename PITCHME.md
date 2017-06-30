@@ -83,7 +83,7 @@
 
 ### 技術書典２
 
-<img src="assets/images/blog-05-techbookfest2.png" width="60%">
+<img src="assets/images/blog-05-techbookfest2.png" width="80%">
 
 ---
 

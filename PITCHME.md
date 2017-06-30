@@ -60,7 +60,7 @@
 
 ---
 
-<img src="assets/images/google-group-03-answer.png" width="40%">
+<img src="assets/images/google-group-03-answer.png" width="60%">
 
 ###### 「Hi, grandpa,」
 

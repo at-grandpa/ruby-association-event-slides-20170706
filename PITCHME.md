@@ -1,16 +1,16 @@
----?image=images/crystal-logo.png&size=30% auto
+---?image=assets/images/crystal-logo.png&size=30% auto
 
 ---
 
 ### rubykaigi 2016
 
-<img src="images/rubykaigi-2016-01.JPG" width="60%">
+<img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
 
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
 ---
 
-<img src="images/blog-01-rubykaigi.png" width="60%">
+<img src="assets/images/blog-01-rubykaigi.png" width="60%">
 
 [http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)
 
@@ -20,14 +20,14 @@
 
 ### rubykaigi 2017 🎉
 
-<img src="images/rubykaigi-2017-01.png" width="60%">
+<img src="assets/images/rubykaigi-2017-01.png" width="60%">
 
 [http://rubykaigi.org/2017](http://rubykaigi.org/2017)
 
 
 ---
 
-<img src="images/icon_512.jpg" width="10%" border="0">
+<img src="assets/images/icon_512.jpg" width="10%" border="0">
 
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
 - github: [@at-grandpa](https://github.com/at-grandpa)

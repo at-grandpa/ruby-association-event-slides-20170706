@@ -6,3 +6,6 @@ footnote : "© 2017 at-grandpa."
 
 # スライドのページ数表示の設定
 slide-number: true
+
+# テーマの編集
+theme-override : assets/css/PITCHME.css

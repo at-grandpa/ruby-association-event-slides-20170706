@@ -111,22 +111,22 @@
 ---
 
 #### crystalを
-## ご存知の方🙋
+### ご存知の方🙋
 
 
 ---
 
-## 触ったことある方🙋
+### 触ったことある方🙋
 
 
 ---
 
-## ライブラリを作ったことある方🙋
+### ライブラリを作ったことある方🙋
 
 
 ---
 
-## contributorの方🙋
+### contributorの方🙋
 
 ---
 
@@ -137,7 +137,7 @@
 
 ### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
 
-<img src="assets/images/qiita-crystal-2017.png" width="70%">
+<img src="assets/images/qiita-crystal-2017.png" width="60%">
 
 ###### author: [@yahhonob](https://twitter.com/yahhonob)
 

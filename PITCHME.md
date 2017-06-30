@@ -46,6 +46,19 @@
 
 ---
 
+### Google Group
+
+<img src="assets/images/google-group-01-all.png" width="70%" border="0">
+
+
+---
+
+<img src="assets/images/google-group-02-answer.png" width="70%" border="0">
+
+###### 「Hi, grandpa,」
+
+---
+
 ### 3枚目のスライド
 
 ```crystal

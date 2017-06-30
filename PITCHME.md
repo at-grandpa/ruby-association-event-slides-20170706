@@ -27,6 +27,11 @@
 
 ---
 
+<img src="images/icon_512.jpg" width="60%">
+
+- <img src="images/Twitter_Logo_Blue.png" width="60%">
+
+
 
 ### 3枚目のスライド
 

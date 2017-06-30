@@ -77,13 +77,13 @@
 
 ### Crystal勉強会 #4 in 渋谷
 
-<img src="assets/images/blog-04-study-crystal.png" width="60%">
+<img src="assets/images/blog-04-study-crystal.png" width="80%">
 
 ---
 
 ### 技術書典２
 
-<img src="assets/images/blog-05-techbookfest2.png" width="80%">
+<img src="assets/images/blog-05-techbookfest2.png" width="60%">
 
 ---
 

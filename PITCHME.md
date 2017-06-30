@@ -234,7 +234,7 @@ $ crystal init app kemal_test
       create  kemal_test/src/kemal_test/version.cr
       create  kemal_test/spec/spec_helper.cr
       create  kemal_test/spec/kemal_test_spec.cr
-Initialized empty Git repository in /Users/y-tsuchida/crystal/test/kemal_test/.git/
+Initialized empty Git repository in /path/to/kemal_test/.git/
 $ cd kemal_test
 $ vim shard.yml
 $ cat shard.yml
@@ -300,6 +300,14 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+### ライブラリを紹介しているサイト
+
+---
+
+###
+
+
+---
 ### 3枚目のスライド
 
 ```crystal

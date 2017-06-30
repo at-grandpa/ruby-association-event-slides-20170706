@@ -3,12 +3,13 @@
   box-shadow: 5px 5px 20px -5px rgba(20, 20, 20, 0.6);
   border-radius: 5px;
 }
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  color: #545454;
+  color: #AAAAAA;
   text-transform: none;
 }

@@ -102,6 +102,16 @@
 
 
 ---
+
+## 圧倒亭グランパのブログ
+
+- [「スキル伝授にはペアプロが最速」というのは何故か](http://at-grandpa.hatenablog.jp/entry/2017/03/10/084658)
+- [【ruby】 メソッド探索から見る、モジュール・特異メソッド・特異クラス](http://at-grandpa.hatenablog.jp/entry/2016/02/14/090544)
+- [【ruby】キーワード引数のメソッド呼び出しは遅い！しかし2.2.0-preview2 以降で劇的に改善されていた話](http://at-grandpa.hatenablog.jp/entry/2016/03/07/091805)
+
+---
+
+
 ### 3枚目のスライド
 
 ```crystal

@@ -61,7 +61,7 @@
 
 ---
 
-## Crystal-lang Google Group
+## Crystal-lang [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
 
 <img src="assets/images/google-group-01-all.png" width="90%">
 

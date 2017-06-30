@@ -319,6 +319,27 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+### 有名だと思うもの
+
+- [kemal](http://kemalcr.com/)
+  - Sinatraライクな web framework
+- [amber](http://www.ambercr.io/)
+  - Railsライクな web framework
+  - CLIツールもある
+- [sidekiq.cr](http://www.mikeperham.com/2016/05/25/sidekiq-for-crystal/)
+  - sidekiq作者が自ら制作
+
+---
+
+### 最近少し注目しているもの
+
+- [graphql-crystal](https://github.com/ziprandom/graphql-crystal)
+  - まだbeta版
+- [scry](https://github.com/kofno/scry)
+  - LSP対応の code analysis server
+
+---
+
 ### 3枚目のスライド
 
 ```crystal

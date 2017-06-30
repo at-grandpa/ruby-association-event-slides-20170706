@@ -59,7 +59,6 @@
 ###### どうしたらいい？
 
 ---
----
 
 <img src="assets/images/google-group-03-answer.png" width="70%" border="0">
 

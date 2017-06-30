@@ -196,6 +196,11 @@ A short syntax exists for specifying a block that receives a single argument and
 ```crystal
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 # => ["CBA", "FED", "IHG"]
+
+# ditto
+puts ["abc", "def", "ghi"].map do |arg|
+  arg.upcase.reverse
+end
 ```
 
 [Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)

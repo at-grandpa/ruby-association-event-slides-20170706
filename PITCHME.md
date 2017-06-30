@@ -6,13 +6,6 @@
 
 ![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
 aaaaa
-aaaaa
-aaaaa
-aaaaa
-aaaaa
-aaaaa
-aaaaa
-aaaaa
 
 
 ---?image=images/rubykaigi-2017-01.png&size=60% auto

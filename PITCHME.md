@@ -1,4 +1,4 @@
----?image=images/crystal-logo.png&size=60% auto
+---?image=images/crystal-logo.png&size=40% auto
 
 ---
 
@@ -6,9 +6,7 @@
 
 ![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
 
-
-
-[#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash) [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
+[#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
 
 ---?image=images/rubykaigi-2017-01.png&size=60% auto

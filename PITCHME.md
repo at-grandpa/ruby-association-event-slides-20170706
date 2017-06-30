@@ -6,13 +6,13 @@
 
 <img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
 
-#### [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
+###### [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
 ---
 
 <img src="assets/images/blog-01-rubykaigi.png" width="60%">
 
-#### [http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)
+###### [http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)
 
 
 
@@ -22,7 +22,7 @@
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
 
-#### [http://rubykaigi.org/2017](http://rubykaigi.org/2017)
+###### [http://rubykaigi.org/2017](http://rubykaigi.org/2017)
 
 
 ---
@@ -36,13 +36,13 @@
 
 <img src="assets/images/blog-02-clim.png" width="70%" border="0">
 
-#### [１秒でも早くCLIツールを作りたい by Crystal](http://at-grandpa.hatenablog.jp/entry/clim)
+###### [１秒でも早くCLIツールを作りたい by Crystal](http://at-grandpa.hatenablog.jp/entry/clim)
 
 ---
 
 <img src="assets/images/blog-03-des.png" width="70%" border="0">
 
-#### [ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)
+###### [ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)
 
 ---
 

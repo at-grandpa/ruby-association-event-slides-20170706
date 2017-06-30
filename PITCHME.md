@@ -264,6 +264,11 @@ Updating https://github.com/jeromegn/kilt.git
 Installing kemal (master)
 Installing radix (0.3.8)
 Installing kilt (0.4.0)
+$ ls -1 lib
+kemal
+kilt
+radix
+
 $ vim src/kemal_test.cr
 $ cat src/kemal_test.cr
 require "./kemal_test/*"
@@ -287,10 +292,11 @@ $ crystal run src/kemal_test.cr
 @[30-33](`kemal`を記述します)
 @[35](依存ライブラリをinstallします)
 @[36-41](installできました)
-@[42](ソースコードを編集します)
-@[43]()
-@[44-53](`require`できます)
-@[52-53](実行できます)
+@[42-46](libディレクトリにあります)
+@[47](ソースコードを編集します)
+@[48]()
+@[49-57](`require`できます)
+@[58-59](実行できます)
 
 ---
 

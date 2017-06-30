@@ -1,7 +1,7 @@
-### こんにちは！
 
 
-これはサンプルのスライド資料です。
+![Logo](images/crystal-logo.png)
+
 
 
 ---?code=codes/sample.cr

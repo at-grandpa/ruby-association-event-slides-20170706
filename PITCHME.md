@@ -4,12 +4,11 @@
 
 ### rubykaigi 2016
 
-![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
 
-    aaaaa
+aaaaa
 
 
----?image=images/rubykaigi-2017-01.JPG&size=60% auto
+---?image=images/rubykaigi-2017-01.png&size=60% auto
 
 
 +++

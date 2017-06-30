@@ -212,7 +212,7 @@
 
 ### shards
 
-- rubyの'bundler'的存在
+- rubyの`bundler`的存在
 - `shards.yml`に設定記述
 - githubのリポジトリ指定
   - branchやタグ指定可能

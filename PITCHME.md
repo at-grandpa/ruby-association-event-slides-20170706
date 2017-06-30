@@ -29,7 +29,7 @@
 
 <img src="images/icon_512.jpg" width="10%">
 
-- <img src="images/twitter-logo-blue.png" width="10%">[@at_grandpa](https://twitter.com/at_grandpa)
+<img src="images/twitter-logo-blue.png" width="10%">[@at_grandpa](https://twitter.com/at_grandpa)
 
 
 ---

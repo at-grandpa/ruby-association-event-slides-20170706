@@ -220,6 +220,8 @@
 
 ---
 
+###### ライブラリをinstallするまでの流れ
+
 ```
 $ crystal init app kemal_test
       create  kemal_test/.gitignore
@@ -289,7 +291,6 @@ $ crystal run src/kemal_test.cr
 @[43]()
 @[44-53](`require`できます)
 @[52-53](実行できます)
-
 
 ---
 

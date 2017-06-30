@@ -116,7 +116,7 @@
 <img src="assets/images/techbookfest3.png" width="65%">
 
 
----?image=assets/images/crystal-web-site-top.png&size=contain
+---?image=assets/images/crystal-web-site-top.png&size=cover
 
 ### Crystalのこれまでの歩みと
 ### v1.0 に向けたロードマップ

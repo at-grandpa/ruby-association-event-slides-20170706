@@ -106,6 +106,7 @@
 
 ### Crystalのこれまでの歩みと
 ### v1.0 に向けたロードマップ
+##### 2017.07.06 [@at_grandpa](https://twitter.com/at_grandpa)
 
 
 ---

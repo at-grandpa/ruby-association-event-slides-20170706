@@ -186,7 +186,7 @@
 
 ---
 
-<img src="assets/images/github-star-crystal.png" width="55%">
+<img src="assets/images/github-star-crystal.png" width="80%">
 
 ---
 

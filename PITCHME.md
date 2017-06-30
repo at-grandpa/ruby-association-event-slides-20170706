@@ -1,9 +1,6 @@
 ---?image=images/crystal-logo.png&size=60% auto
 
-
-
-
----?code=codes/sample.cr
+---?image=images/rubykaigi-2016-01.JPG&size=60% auto
 
 
 ### 2枚目のスライド

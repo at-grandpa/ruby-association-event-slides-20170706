@@ -4,7 +4,7 @@
 
 ### rubykaigi 2016
 
-<img src="images/rubykaigi-2016-01.JPG" width="50%">
+<img src="images/rubykaigi-2016-01.JPG" width="60%">
 
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 

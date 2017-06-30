@@ -138,6 +138,9 @@
 
 <img src="assets/images/qiita-crystal-2017.png" width="70%">
 
+###### author: [@yahhonob](https://twitter.com/yahhonob)
+
+---
 
 
 ### 3枚目のスライド

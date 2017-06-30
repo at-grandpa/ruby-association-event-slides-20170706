@@ -31,7 +31,7 @@
 
 ---
 
-## RubyKaigi 2017 🎉
+## 🎉RubyKaigi 2017⛩
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
 

@@ -2,7 +2,7 @@
 
 ---
 
-### RubyKaigi 2016
+## RubyKaigi 2016
 
 <img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
 
@@ -18,7 +18,7 @@
 
 ---
 
-### RubyKaigi 2017 🎉
+## RubyKaigi 2017 🎉
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
 
@@ -46,7 +46,7 @@
 
 ---
 
-### Crystal-lang Google Group
+## Crystal-lang Google Group
 
 <img src="assets/images/google-group-01-all.png" width="90%">
 
@@ -66,7 +66,7 @@
 
 ---
 
-### Crystal周りの活動
+## Crystal周りの活動
 
 - たまにissue作ったり、PR作ったり
 - ライブラリ書いたり
@@ -75,13 +75,13 @@
 
 ---
 
-### Crystal勉強会 #4 in 渋谷
+## Crystal勉強会 #4 in 渋谷
 
 <img src="assets/images/blog-04-study-crystal.png" width="80%">
 
 ---
 
-### 技術書典２
+## 技術書典２
 
 <img src="assets/images/blog-05-techbookfest2.png" width="60%">
 

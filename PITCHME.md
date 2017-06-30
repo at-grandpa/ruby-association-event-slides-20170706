@@ -129,6 +129,16 @@
 
 ---
 
+### crystalについて
+### いろいろ調べてきました
+
+---
+
+### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
+
+<img src="assets/images/qiita-crystal-2017.png" width="70%">
+
+
 
 ### 3枚目のスライド
 

@@ -169,6 +169,37 @@
 
 ---
 
+### Syntax
+
+```crystal
+class StrPrinter
+  def initialize(@greeting : String = "", @name : String = "")
+  end
+
+  def print
+    puts "#{@greeting}, #{@name}."
+  end
+end
+
+s = StrPrinter.new(name: "Taro", greeting: "Hello")
+s.print  # => Hello, Taro.
+```
+@[2](インスタンス変数に直接代入される)
+@[10](通常の変数名を使ったキーワード引数)
+
+---
+
+### Short one-argument syntaxo
+
+A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
+
+```crystal
+puts ["abc", "def", "ghi"].map(&.upcase.reverse)
+# => ["CBA", "FED", "IHG"]
+```
+
+---
+
 ### Crystalについて
 ### いろいろ調べてきました
 

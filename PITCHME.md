@@ -172,7 +172,7 @@
 ### Syntax
 
 ```crystal
-class StrPrinter
+class MyStrPrinter
   def initialize(@greeting : String = "", @name : String = "")
   end
 
@@ -181,7 +181,7 @@ class StrPrinter
   end
 end
 
-s = StrPrinter.new(name: "Taro", greeting: "Hello")
+s = MyStrPrinter.new(name: "Taro", greeting: "Hello")
 s.print  # => Hello, Taro.
 ```
 @[2](インスタンス変数に直接代入される)
@@ -189,7 +189,7 @@ s.print  # => Hello, Taro.
 
 ---
 
-### Short one-argument syntaxo
+### Short one-argument syntax
 
 A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
 
@@ -197,6 +197,8 @@ A short syntax exists for specifying a block that receives a single argument and
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 # => ["CBA", "FED", "IHG"]
 ```
+
+[Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
 
 ---
 

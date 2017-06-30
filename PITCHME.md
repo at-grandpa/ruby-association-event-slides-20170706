@@ -4,7 +4,7 @@
 
 ### rubykaigi 2016
 
-<img src="images/rubykaigi-2016-01.JPG" width="auto" height="10%">
+<img src="images/rubykaigi-2016-01.JPG" height="60%">
 
 
 +++

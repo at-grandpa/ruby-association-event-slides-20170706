@@ -1,4 +1,4 @@
----?image=images/crystal-logo.png&size=auto 90%
+---?image=images/crystal-logo.png&size=60% auto
 
 
 

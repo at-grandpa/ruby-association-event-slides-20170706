@@ -190,6 +190,23 @@
 
 ---
 
+<img src="assets/images/github-star-crystal-elixir.png" width="80%">
+
+---
+
+<img src="assets/images/github-star-crystal-elixir-rust.png " width="80%">
+
+---
+
+<img src="assets/images/github-star-crystal-elixir-rust-go.png" width="80%">
+
+---
+
+<img src="assets/images/github-star-crystal-elixir-rust-go-swift.png" width="80%">
+
+---
+
+
 
 ### 3枚目のスライド
 

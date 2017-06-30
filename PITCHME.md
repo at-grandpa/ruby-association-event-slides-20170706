@@ -27,9 +27,10 @@
 
 ---
 
-<img src="images/icon_512.jpg" width="60%">
+<img src="images/icon_512.jpg" width="10%">
 
-- <img src="images/Twitter_Logo_Blue.png" width="60%">
+- <img src="images/Twitter_Logo_Blue.png" width="60%"> [@at_grandpa](https://twitter.com/at_grandpa)
+
 
 
 

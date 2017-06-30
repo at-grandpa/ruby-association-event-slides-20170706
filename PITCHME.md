@@ -27,7 +27,7 @@
 
 ---
 
-<img src="assets/images/icon_512.jpg" width="50%" border="0">
+<img src="assets/images/icon_512.jpg" width="30%" border="0">
 
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
 - github: [@at-grandpa](https://github.com/at-grandpa)

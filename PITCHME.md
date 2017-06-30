@@ -1,10 +1,6 @@
 ---?image=images/crystal-logo.png&size=60% auto
 
----
-
-### rubykaigi 2016
-
-<img src="images/rubykaigi-2016-01.JPG" height="10%">
+---?image=images/rubykaigi-2016-01.JPG&size=60% auto
 
 
 +++

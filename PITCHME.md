@@ -27,9 +27,10 @@
 
 ---
 
-<img src="images/icon_512.jpg" width="10%">
+<img src="images/icon_512.jpg" width="10%" border="0px">
 
-<img src="images/twitter-logo-blue.png" width="10%">[@at_grandpa](https://twitter.com/at_grandpa)
+- twitter: [@at_grandpa](https://twitter.com/at_grandpa)
+- github: [@at-grandpa](https://github.com/at-grandpa)
 
 
 ---

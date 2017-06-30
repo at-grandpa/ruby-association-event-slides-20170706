@@ -2,7 +2,7 @@
 
 ---
 
-### rubykaigi 2016
+### RubyKaigi 2016
 
 <img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
 
@@ -18,7 +18,7 @@
 
 ---
 
-### rubykaigi 2017 🎉
+### RubyKaigi 2017 🎉
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
 

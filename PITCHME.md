@@ -4,6 +4,8 @@
 
 ### rubykaigi 2016
 
+![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
+
 
 aaaaa
 

@@ -174,6 +174,16 @@
 
 ---
 
+### star数の推移を追ってみます📈
+
+---
+
+### 便利なサイト
+### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
+
+---
+
+
 
 ### 3枚目のスライド
 

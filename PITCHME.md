@@ -9,7 +9,13 @@
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
 
----?image=images/rubykaigi-2017-01.png&size=60% auto
+---
+
+### rubykaigi 2017 !!! 🎉
+
+<img src="images/rubykaigi-2017-01.png" width="60%">
+
+[http://rubykaigi.org/2017](http://rubykaigi.org/2017)
 
 
 +++

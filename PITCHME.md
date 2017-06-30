@@ -81,6 +81,12 @@
 
 ---
 
+### 技術書典２
+
+<img src="assets/images/blog-05-techbookfest2.png" width="60%">
+
+---
+
 ### 3枚目のスライド
 
 ```crystal

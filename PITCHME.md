@@ -1,4 +1,4 @@
----?image=images/crystal-logo.png&size=40% auto
+---?image=images/crystal-logo.png&size=30% auto
 
 ---
 
@@ -8,17 +8,24 @@
 
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
+---
+
+<img src="images/blog-01-rubykaigi.png" width="60%">
+
+[http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)
+
+
 
 ---
 
-### rubykaigi 2017 !!! 🎉
+### rubykaigi 2017 🎉
 
 <img src="images/rubykaigi-2017-01.png" width="60%">
 
 [http://rubykaigi.org/2017](http://rubykaigi.org/2017)
 
 
-+++
+---
 
 
 ### 3枚目のスライド

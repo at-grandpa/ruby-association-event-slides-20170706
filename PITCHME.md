@@ -11,6 +11,10 @@
 
 ---
 
+###### Matzさんの後で緊張しています🌀
+
+---
+
 ## RubyKaigi 2016
 
 <img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
@@ -184,6 +188,9 @@
 
 ---
 
+<img src="assets/images/github-star-crystal.png" width="55%">
+
+---
 
 
 ### 3枚目のスライド

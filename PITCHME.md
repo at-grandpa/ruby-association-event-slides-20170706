@@ -220,7 +220,7 @@
 
 ---
 
-```shell
+```
 $ crystal init app kemal_test
       create  kemal_test/.gitignore
       create  kemal_test/.editorconfig
@@ -278,7 +278,10 @@ $ crystal run src/kemal_test.cr
 ```
 @[1](`Crystal init`コマンドで雛形を生成します)
 @[2-12](雛形が生成されます)
+@[13]()
 @[14](`shads.yml`を編集します)
+@[15]()
+@[16-34]()
 @[30-33](`kemal`を記述します)
 @[35-41](`shards install`コマンドで依存ライブラリをinstallします)
 @[44-50](`require`できます)

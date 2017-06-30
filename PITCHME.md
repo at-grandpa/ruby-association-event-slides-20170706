@@ -48,12 +48,19 @@
 
 ### Google Group
 
-<img src="assets/images/google-group-01-all.png" width="70%" border="0">
+<img src="assets/images/google-group-01-all.png" width="90%" border="0">
 
 
 ---
 
-<img src="assets/images/google-group-02-answer.png" width="70%" border="0">
+<img src="assets/images/google-group-02-lldb-question.png" width="70%" border="0">
+
+###### 「lldbでローカル変数の値が見れないんだけどどうしたらいい？」
+
+---
+---
+
+<img src="assets/images/google-group-03-answer.png" width="70%" border="0">
 
 ###### 「Hi, grandpa,」
 

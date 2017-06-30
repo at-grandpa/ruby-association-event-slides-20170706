@@ -280,6 +280,9 @@ $ crystal run src/kemal_test.cr
 @[2-12](雛形が生成されます)
 @[14](`shads.yml`を編集します)
 @[30-33](`kemal`を記述します)
+@[35-41](`shards install`コマンドで依存ライブラリをinstallします)
+@[44-50](`require`できます)
+@[52-53](実行できます)
 
 
 ---

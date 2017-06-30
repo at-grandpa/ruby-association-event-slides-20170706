@@ -9,7 +9,6 @@
 
 
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash) [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
-aaaaa
 
 
 ---?image=images/rubykaigi-2017-01.png&size=60% auto

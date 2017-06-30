@@ -5,6 +5,15 @@
 ### rubykaigi 2016
 
 ![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)aa
+
+
+
+
+
+
+
+
+
 [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 
 

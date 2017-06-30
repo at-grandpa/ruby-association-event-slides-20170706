@@ -91,14 +91,14 @@
 
 ## 技術書典２
 
-<img src="assets/images/blog-05-techbookfest2.png" width="60%">
+<img src="assets/images/blog-05-techbookfest2.png" width="50%">
 
 
 ---
 
 ## 技術書典３ 開催決定 🎉
 
-<img src="assets/images/techbookfest3.png" width="80%">
+<img src="assets/images/techbookfest3.png" width="70%">
 
 
 ---

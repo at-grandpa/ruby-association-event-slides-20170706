@@ -206,7 +206,83 @@
 
 ---
 
+### ライブラリ
 
+---
+
+### shards
+
+- rubyの'bundler'的存在
+- `shards.yml`に設定記述
+- githubのリポジトリ指定
+  - branchやタグ指定可能
+- `shards.lock`を生成
+
+---
+
+```shell
+$ crystal init app kemal_test
+      create  kemal_test/.gitignore
+      create  kemal_test/.editorconfig
+      create  kemal_test/LICENSE
+      create  kemal_test/README.md
+      create  kemal_test/.travis.yml
+      create  kemal_test/shard.yml
+      create  kemal_test/src/kemal_test.cr
+      create  kemal_test/src/kemal_test/version.cr
+      create  kemal_test/spec/spec_helper.cr
+      create  kemal_test/spec/kemal_test_spec.cr
+Initialized empty Git repository in /Users/y-tsuchida/crystal/test/kemal_test/.git/
+$ cd kemal_test
+$ vim shard.yml
+$ cat shard.yml
+name: kemal_test
+version: 0.1.0
+
+authors:
+  - at-grandpa
+
+targets:
+  kemal_test:
+    main: src/kemal_test.cr
+
+crystal: 0.23.0
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+$ shards install
+Updating https://github.com/kemalcr/kemal.git
+Updating https://github.com/luislavena/radix.git
+Updating https://github.com/jeromegn/kilt.git
+Installing kemal (master)
+Installing radix (0.3.8)
+Installing kilt (0.4.0)
+$ vim src/kemal_test.cr
+$ cat src/kemal_test.cr
+require "./kemal_test/*"
+require "kemal"
+
+get "/" do
+  "Hello World!"
+end
+
+Kemal.run
+
+$ crystal run src/kemal_test.cr
+[development] Kemal is ready to lead at http://0.0.0.0:3000
+```
+@[1](`Crystal init`コマンドで雛形を生成します)
+@[2-12](雛形が生成されます)
+@[14](`shads.yml`を編集します)
+@[30-33](`kemal`を記述します)
+
+
+---
 
 ### 3枚目のスライド
 

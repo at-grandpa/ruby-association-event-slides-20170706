@@ -96,6 +96,12 @@
 
 ---
 
+## 技術書典３ 開催決定 🎉
+
+<img src="assets/images/techbookfest3.png" width="80%">
+
+
+---
 ### 3枚目のスライド
 
 ```crystal

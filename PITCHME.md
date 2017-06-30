@@ -6,7 +6,9 @@
 
 ![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
 
-　
+ [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash) [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
+
+
 
 ---?image=images/rubykaigi-2017-01.JPG&size=60% auto
 

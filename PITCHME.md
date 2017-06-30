@@ -1,6 +1,5 @@
+---?image=images/crystal-logo.png
 
-
-![Logo](images/crystal-logo.png)
 
 
 

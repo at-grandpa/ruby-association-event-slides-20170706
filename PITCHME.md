@@ -283,7 +283,7 @@ $ crystal run src/kemal_test.cr
 @[15]()
 @[16-34]()
 @[30-33](`kemal`を記述します)
-@[35](`shards install`コマンドで依存ライブラリをinstallします)
+@[35](依存ライブラリをinstallします)
 @[36-41](installできました)
 @[42](ソースコードを編集します)
 @[43]()

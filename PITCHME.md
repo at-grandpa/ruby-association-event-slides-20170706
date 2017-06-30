@@ -42,11 +42,11 @@
 
 <img src="assets/images/blog-03-des.png" width="70%" border="0">
 
-###### [ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)
+###### [ちょっとしたdocker環境を\n素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)
 
 ---
 
-### Google Group
+### Crystal-lang Google Group
 
 <img src="assets/images/google-group-01-all.png" width="90%" border="0">
 
@@ -55,7 +55,8 @@
 
 <img src="assets/images/google-group-02-lldb-question.png" width="70%" border="0">
 
-###### 「lldbでローカル変数の値が見れないんだけどどうしたらいい？」
+###### lldbでローカル変数の値が見れないんだけど
+###### どうしたらいい？
 
 ---
 ---

@@ -10,4 +10,5 @@
 .reveal h5,
 .reveal h6 {
   color: #343434;
+  text-transform: none;
 }

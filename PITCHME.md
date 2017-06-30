@@ -2,8 +2,9 @@
 
 ---
 
-- 資料は公開してあります
+- 資料は公開済みです
   - [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
+  - [@at_grandpa](https://twitter.com/at_grandpa)でつぶやきます
 - 実況ツイートなど大歓迎です
 - スライド中のリンクはクリックできます
   -  GitPitch便利

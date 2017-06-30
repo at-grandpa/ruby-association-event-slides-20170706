@@ -2,11 +2,11 @@
 
 ---
 
-### 資料は公開してあります
-###### [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
-### 実況ツイートなど大歓迎です
-### スライド中のリンクはクリックできます
-###### GitPitch便利
+- 資料は公開してあります
+  - [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
+- 実況ツイートなど大歓迎です
+- スライド中のリンクはクリックできます
+  -  GitPitch便利
 
 ---
 

@@ -8,6 +8,7 @@
 
 
 
+[#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash) [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 aaaaa
 
 

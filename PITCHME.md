@@ -32,10 +32,19 @@
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
 - github: [@at-grandpa](https://github.com/at-grandpa)
 
+---
+
+<img src="assets/images/blog-02-clim.png" width="60%" border="0">
+
+- [１秒でも早くCLIツールを作りたい by Crystal](http://at-grandpa.hatenablog.jp/entry/clim)
 
 ---
 
+<img src="assets/images/blog-03-des.png" width="60%" border="0">
 
+- [ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)
+
+---
 
 ### 3枚目のスライド
 

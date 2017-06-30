@@ -6,6 +6,8 @@
 
 ![rubykaigi-2016-01](images/rubykaigi-2016-01.JPG)
 
+aaaaaaaaaa
+
 ---?image=images/rubykaigi-2017-01.JPG&size=60% auto
 
 

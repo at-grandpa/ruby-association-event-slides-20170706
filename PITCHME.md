@@ -412,6 +412,18 @@ expansion 1:
 
 ---
 
+### Crystalについていろいろ調査
+
+---
+
+### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
+
+<img src="assets/images/qiita-crystal-2017.png" width="55%">
+
+###### author: [@yahhonob](https://twitter.com/yahhonob)さん
+
+---
+
 ### Crystalの歴史
 
 ---
@@ -445,20 +457,29 @@ expansion 1:
 
 #### 2013.11.14
 
+---
+
+### First official release
+
+<img src="assets/images/first-official-release.png" width="80%">
+
+#### 2014.06.19
 
 ---
 
+### Crystal reached 4000 stars on GitHub
 
+⭐⭐⭐⭐
 
-### Crystalについていろいろ調査
+#### 2015.12.22
 
 ---
 
-### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
+### First Meetup in Argentina
 
-<img src="assets/images/qiita-crystal-2017.png" width="55%">
+<img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="80%">
 
-###### author: [@yahhonob](https://twitter.com/yahhonob)さん
+#### 2016.02.04
 
 ---
 
@@ -517,7 +538,7 @@ expansion 1:
 
 ---
 
-### ライブラリについて
+### Library
 
 ---
 
@@ -650,4 +671,31 @@ $ crystal run src/kemal_test.cr
   - LSP対応の code analysis server
 
 ---
+
+### どんどん加速していって欲しい ⤴️
+
+---
+
+### Exciting Issue or PR
+
+---
+
+# [What to do with global variables? #3139](https://github.com/crystal-lang/crystal/issues/3139)
+
+<img src="assets/images/issue-pr-remove-global-variables.png" width="60%">
+
+---
+
+# [Add intro sort to Array #3514](https://github.com/crystal-lang/crystal/pull/3514)
+
+<img src="assets/images/issue-pr-add-intro-sort.png" width="60%">
+
+---
+
+---
+
+### Crystalのこれから
+
+---
+
 

@@ -402,15 +402,6 @@ expansion 1:
    def date
      @date
    end
-   def hour
-     @hour
-   end
-   def min
-     @min
-   end
-   def sec
-     @sec
-   end
 ```
 
 ---

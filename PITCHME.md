@@ -412,6 +412,24 @@ expansion 1:
 
 ---
 
+### Crystalの歴史
+
+---
+
+### [The story behind #CrystalLang](https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html)
+
+<img src="assets/images/the-story-behind-crystal-lang.png" width="80%">
+
+
+---
+
+### initial commit
+
+
+
+
+---
+
 ### Crystalについていろいろ調査
 
 ---
@@ -463,7 +481,6 @@ expansion 1:
 ---
 
 - 新しい世代の中では１〜２年遅れていそう |
-- 成長初期らしい |
 - キラーアプリ/キラーライブラリがない |
 - 実用事例が少ない |
 - 触る人は徐々に増え始めている印象 |
@@ -471,6 +488,7 @@ expansion 1:
   - blogのpost数
   - twitterの投稿数
   - 新規ライブラリの登場頻度
+- 日本だとちょっと下火？
 
 ---
 
@@ -479,7 +497,7 @@ expansion 1:
 
 ---
 
-### ライブラリ
+### ライブラリについて
 
 ---
 
@@ -592,7 +610,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### 有名だと思うもの
+### 有名だと思うライブラリ
 
 - [kemal](http://kemalcr.com/)
   - Sinatraライクな web framework
@@ -604,7 +622,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### 最近少し注目しているもの
+### 注目しているライブラリ
 
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal)
   - まだbeta版
@@ -613,64 +631,3 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### 3枚目のスライド
-
-```crystal
-a = "a"
-b = "b"
-c = "c"
-d = "d"
-a = "a"
-a = "a"
-a = "a"
-a = "a"
-a = "a"
-a = "a"
-b = "b"
-c = "c"
-d = "d"
-b = "b"
-c = "c"
-d = "d"
-b = "b"
-c = "c"
-d = "d"
-b = "b"
-c = "c"
-d = "d"
-b = "b"
-c = "c"
-d = "d"
-b = "b"
-c = "c"
-d = "d"
-```
-@[2](これは"b"です)
-@[23](これは"c"です)
-
-
----
-
-# h1
-
-## h2
-
-### h3
-
-大文字になるっぽいな
-
----
-
-# 箇条書きのテスト
-
-- aaa
-- bbb
-- ccc |
-- ddd
-- eee
-- fff |
-- ggg
-
----
-
-### おわり

@@ -672,8 +672,6 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### どんどん加速していって欲しい ⤴️
-
 ---
 
 ### Exciting Issue or PR

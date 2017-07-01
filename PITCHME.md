@@ -242,6 +242,55 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 
 ---
 
+### Macros
+
+```crystal
+class MacroSample
+  macro define_getter(*names)
+    {% for name in names %}
+      def {{name}}
+        @{{name}}
+      end
+    {% end %}
+  end
+
+  define_getter year, month, date, hour, min, sec
+end
+
+# ditto
+class MacroSample
+  def year
+    @year
+  end
+
+  def month
+    @month
+  end
+
+  def date
+    @date
+  end
+
+  def hour
+    @hour
+  end
+
+  def min
+    @min
+  end
+
+  def sec
+    @sec
+  end
+end
+```
+@[1-8](Macroの定義)
+@[10](Macroの呼び出し)
+
+Macroの実行は compile-time に行われる
+
+---
+
 ### Crystalについて
 ### いろいろ調べてきました
 

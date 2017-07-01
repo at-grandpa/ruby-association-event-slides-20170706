@@ -423,12 +423,32 @@ expansion 1:
 
 ---
 
-### initial commit
+### Initial commit
 
+<img src="assets/images/initial-commit.png" width="80%">
 
+#### 2011.06.21
+
+---
+
+### First blog post
+
+<img src="assets/images/manas-blog-hello-world.png" width="80%">
+
+#### 2013.07.10
+
+---
+
+### the compiler written in Crystal can compile itself
+
+<img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="80%">
+
+#### 2013.11.14
 
 
 ---
+
+
 
 ### Crystalについていろいろ調査
 

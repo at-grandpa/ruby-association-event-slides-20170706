@@ -235,6 +235,9 @@ a + 1  # Error, because String#+(Int32) isn't defined
 undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float64 | Int32 | Int64 | MySQL::Types::Date | Slice(UInt8) | String | Time | Nil)) | Nil)) (did you mean 'to_s'?)
 ```
 
+- 変数のスコープは小さくする |
+- 変数の型を明示的に書いてしまう |
+
 ---
 
 ### Crystalについて

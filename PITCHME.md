@@ -674,17 +674,17 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### Exciting Issue or PR
+## Exciting Issue or PR
 
 ---
 
-# [What to do with global variables? #3139](https://github.com/crystal-lang/crystal/issues/3139)
+###### [What to do with global variables? #3139](https://github.com/crystal-lang/crystal/issues/3139)
 
 <img src="assets/images/issue-pr-remove-global-variables.png" width="60%">
 
 ---
 
-# [Add intro sort to Array #3514](https://github.com/crystal-lang/crystal/pull/3514)
+###### [Add intro sort to Array #3514](https://github.com/crystal-lang/crystal/pull/3514)
 
 <img src="assets/images/issue-pr-add-intro-sort.png" width="60%">
 

@@ -202,6 +202,8 @@ end
 # ditto
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
+@[1-4]()
+@[6-7]()
 
 [Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
 

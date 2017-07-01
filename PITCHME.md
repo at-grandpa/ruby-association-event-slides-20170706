@@ -331,7 +331,7 @@ end
 
 ---
 
-### $ crystal context
+### $ crystal tool context
 
 ```
 $ crystal tool context -c context.cr:4:1 context.cr
@@ -346,7 +346,7 @@ $ crystal tool context -c context.cr:4:1 context.cr
 
 ---
 
-### $ crystal hierarchy
+### $ crystal tool hierarchy
 
 ```crystal
 class Animal; end
@@ -368,7 +368,7 @@ $ crystal tool hierarchy hierarchy.cr -e Animal
 
 ---
 
-### $ crystal format
+### $ crystal tool format
 
 ```crystal
 # before
@@ -388,7 +388,7 @@ puts [1, 2, 3].map(&.to_s)
 
 ---
 
-### $ crystal expand
+### $ crystal tool expand
 
 ```
 $ crystal tool expand -c macro.cr:10:3 macro.cr

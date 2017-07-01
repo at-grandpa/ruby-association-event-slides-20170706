@@ -246,6 +246,8 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 
 ### Macros
 
+###### Have compile-time evaluation and generation of code, to avoid boilerplate code. |
+
 ```crystal
 class MacroSample
   macro define_getter(*names)

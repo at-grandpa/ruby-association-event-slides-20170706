@@ -430,7 +430,7 @@ expansion 1:
 
 ### [The story behind #CrystalLang](https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html)
 
-<img src="assets/images/the-story-behind-crystal-lang.png" width="80%">
+<img src="assets/images/the-story-behind-crystal-lang.png" width="70%">
 
 
 ---
@@ -453,7 +453,7 @@ expansion 1:
 
 ### the compiler written in Crystal can compile itself
 
-<img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="80%">
+<img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="70%">
 
 #### 2013.11.14
 
@@ -469,7 +469,7 @@ expansion 1:
 
 ### Crystal reached 4000 stars on GitHub
 
-⭐⭐⭐⭐
+🌟 🌟 🌟 🌟
 
 #### 2015.12.22
 

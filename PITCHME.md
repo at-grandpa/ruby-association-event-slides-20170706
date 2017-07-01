@@ -477,7 +477,7 @@ expansion 1:
 
 ### First Meetup in Argentina
 
-<img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="80%">
+<img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="70%">
 
 #### 2016.02.04
 
@@ -492,7 +492,7 @@ expansion 1:
 
 ---
 
-### Star数の推移を追ってみる📈
+### Star数の推移を追ってみる 📈
 
 ---
 

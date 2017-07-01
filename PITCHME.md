@@ -663,7 +663,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### 注目しているライブラリ
+### 注目
 
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal)
   - まだbeta版

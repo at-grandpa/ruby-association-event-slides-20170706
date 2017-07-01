@@ -191,6 +191,8 @@ s.print  # => Hello, Taro.
 
 ### Short one-argument syntax
 
+###### [Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
+
 A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
 
 ```crystal
@@ -203,13 +205,13 @@ end
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
 @[1-4](block引数が１つ & メソッド呼び出しのみ)
-@[6-7](連続でメソッドが呼び出せる)
+@[6-7](省略記法でも連続でメソッドが呼び出せる)
 
-[Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
 
 ---
 
 ### Union types
+###### [Crystal Docs - Union types](https://crystal-lang.org/docs/syntax_and_semantics/union_types.html)
 
 ```crystal
 if 1 + 2 == 3
@@ -227,7 +229,6 @@ a + 1  # Error, because String#+(Int32) isn't defined
 @[8](両型に存在するメソッドは呼べる)
 @[9](片方にしか存在しないメソッドは呼べない)
 
-[Crystal Docs - Union types](https://crystal-lang.org/docs/syntax_and_semantics/union_types.html)
 
 ---
 
@@ -409,7 +410,7 @@ expansion 1:
 ---
 
 ### Crystalについて
-### いろいろ調べてきました
+### いろいろ調べてみました
 
 ---
 

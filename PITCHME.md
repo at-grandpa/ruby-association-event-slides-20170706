@@ -348,7 +348,7 @@ $ crystal tool context -c context.cr:4:1 context.cr
 ```crystal
 class Animal; end
 class Cat < Animal; end
-class Mike < Cat: end
+class Mike < Cat; end
 ```
 ```
 $ crystal tool hierarchy hierarchy.cr -e Animal

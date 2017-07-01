@@ -355,7 +355,7 @@ $ crystal tool context -c context.cr:4:1 context.cr
 
 ---
 
-### $ crystal
+### $ crystal hierarchy
 
 ```crystal
 class Animal; end
@@ -373,6 +373,54 @@ $ crystal tool hierarchy hierarchy.cr -e Animal
         +- class Cat (4 bytes)
            |
            +- class Mike (4 bytes)
+```
+
+---
+
+### $ crystal format
+
+```crystal
+def hoge; "hoge"; end
+
+puts [1,2,   3  ]. map(&.   to_s)
+```
+
+```crystal
+def hoge
+  "hoge"
+end
+
+puts [1, 2, 3].map(&.to_s)
+```
+
+---
+
+### $ crystal expand
+
+```
+$ crystal tool expand -c macro.cr:10:3 macro.cr
+1 expansion found
+expansion 1:
+   define_getter(year, month, date, hour, min, sec)
+
+~> def year
+     @year
+   end
+   def month
+     @month
+   end
+   def date
+     @date
+   end
+   def hour
+     @hour
+   end
+   def min
+     @min
+   end
+   def sec
+     @sec
+   end
 ```
 
 ---

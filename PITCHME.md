@@ -31,7 +31,7 @@
 
 ---
 
-## 🎉RubyKaigi 2017⛩
+## 🎉 RubyKaigi 2017 ⛩
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
 
@@ -86,7 +86,7 @@
 
 ---
 
-## その他Crystal周りの活動
+## Crystal周りの活動
 
 - たまにissue作ったり
 - たまにPR作ったり
@@ -259,18 +259,6 @@ class MacroSample
   def date
     @date
   end
-
-  def hour
-    @hour
-  end
-
-  def min
-    @min
-  end
-
-  def sec
-    @sec
-  end
 end
 
 # ditto
@@ -283,7 +271,7 @@ class MacroSample
     {% end %}
   end
 
-  define_getter year, month, date, hour, min, sec
+  define_getter year, month, date
 end
 ```
 

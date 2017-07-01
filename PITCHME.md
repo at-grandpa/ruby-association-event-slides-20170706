@@ -294,7 +294,7 @@ end
 
 ### Generics
 
-```
+```crystal
 class MyBox(T)
   def initialize(@value : T)
   end
@@ -319,6 +319,21 @@ another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
 
 ---
 
+### abstract class
+
+```crystal
+# abstract.cr
+abstract class Animal
+  abstract def talk
+end
+
+class Dog < Animal
+end
+#  Error in abstract.cr:2: abstract `def Animal#talk()` must be implemented by Dog
+#
+#    abstract def talk
+#                 ^~~~
+```
 
 ---
 

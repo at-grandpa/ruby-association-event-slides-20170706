@@ -259,7 +259,7 @@ class MacroSample
   define_getter year, month, date, hour, min, sec
 end
 
-# ditto
+# ditto (at compile-time)
 class MacroSample
   def year
     @year
@@ -286,8 +286,10 @@ class MacroSample
   end
 end
 ```
-@[1-8](Macroの定義)
+@[1-11]()
+@[2-8](Macroの定義)
 @[10](Macroの呼び出し)
+@[13-38](compile-time時のコード)
 
 Macroの実行は compile-time に行われる
 

@@ -292,6 +292,32 @@ end
 @[2-8](Macroの定義)
 @[10](Macroの呼び出し)
 @[13-38](compile-time時のコード)
+---
+
+### Generics
+
+```
+class MyBox(T)
+  def initialize(@value : T)
+  end
+
+  def value
+    @value
+  end
+end
+
+int_box = MyBox(Int32).new(1)
+int_box.value # => 1 (Int32)
+
+string_box = MyBox(String).new("hello")
+string_box.value # => "hello" (String)
+
+another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
+```
+@[1-8](大文字で型変数を定義)
+@[10-11](Int32のオブジェクトを生成)
+@[13-14](Stringのオブジェクトを生成)
+@[16](型が違うとError)
 
 ---
 

@@ -291,8 +291,6 @@ end
 @[10](Macroの呼び出し)
 @[13-38](compile-time時のコード)
 
-Macroの実行は compile-time に行われる
-
 ---
 
 ### Crystalについて

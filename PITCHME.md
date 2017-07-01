@@ -430,7 +430,7 @@ expansion 1:
 
 ### [The story behind #CrystalLang](https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html)
 
-<img src="assets/images/the-story-behind-crystal-lang.png" width="70%">
+<img src="assets/images/the-story-behind-crystal-lang.png" width="60%">
 
 
 ---
@@ -445,15 +445,15 @@ expansion 1:
 
 ### First blog post
 
-<img src="assets/images/manas-blog-hello-world.png" width="80%">
+<img src="assets/images/manas-blog-hello-world.png" width="70%">
 
 #### 2013.07.10
 
 ---
 
-### the compiler written in Crystal can compile itself
+### The compiler written in Crystal can compile itself
 
-<img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="70%">
+<img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="60%">
 
 #### 2013.11.14
 
@@ -469,7 +469,7 @@ expansion 1:
 
 ### Crystal reached 4000 stars on GitHub
 
-🌟 🌟 🌟 🌟
+# 🌟 🌟 🌟 🌟
 
 #### 2015.12.22
 
@@ -477,13 +477,13 @@ expansion 1:
 
 ### First Meetup in Argentina
 
-<img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="70%">
+<img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="60%">
 
 #### 2016.02.04
 
 ---
 
-## Github Stars⭐
+## Github Stars 🌟
 
 ---
 
@@ -651,7 +651,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### 有名だと思うライブラリ
+### 有名どころ
 
 - [kemal](http://kemalcr.com/)
   - Sinatraライクな web framework

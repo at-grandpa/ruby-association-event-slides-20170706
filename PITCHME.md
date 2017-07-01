@@ -184,7 +184,7 @@ end
 s = MyStrPrinter.new(name: "Taro", greeting: "Hello")
 s.print  # => Hello, Taro.
 ```
-@[2](インスタンス変数に直接代入される)
+@[2-3](インスタンス変数に直接代入される)
 @[10](通常の変数名を使ったキーワード引数)
 
 ---
@@ -202,8 +202,8 @@ end
 # ditto
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
-@[1-4]()
-@[6-7]()
+@[1-4](block引数が１つ & メソッド呼び出しのみ)
+@[6-7](連続でメソッドが呼び出せる)
 
 [Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
 
@@ -222,10 +222,10 @@ a      # : Int32 | String
 a.to_s # => String
 a + 1  # Error, because String#+(Int32) isn't defined
 ```
-@[1-5]()
-@[7]()
-@[8]()
-@[9]()
+@[1-5](ifの分岐で型が異なる)
+@[7](Int32 or String の型を持つ)
+@[8](両型に存在するメソッドは呼べる)
+@[9](片方にしか存在しないメソッドは呼べない)
 
 [Crystal Docs - Union types](https://crystal-lang.org/docs/syntax_and_semantics/union_types.html)
 
@@ -274,6 +274,8 @@ class MacroSample
   define_getter year, month, date
 end
 ```
+@[1-13](定型的なメソッド)
+@[15-26](Macroを使ってまとめる)
 
 ---
 
@@ -319,8 +321,8 @@ end
 #    abstract def talk
 #                 ^~~~
 ```
-@[1-4]()
-@[6-11]()
+@[1-4](abstractメソッドを定義)
+@[6-11](存在しなければError)
 
 ---
 

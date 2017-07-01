@@ -248,19 +248,6 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 
 ```crystal
 class MacroSample
-  macro define_getter(*names)
-    {% for name in names %}
-      def {{name}}
-        @{{name}}
-      end
-    {% end %}
-  end
-
-  define_getter year, month, date, hour, min, sec
-end
-
-# ditto (at compile-time)
-class MacroSample
   def year
     @year
   end
@@ -285,11 +272,21 @@ class MacroSample
     @sec
   end
 end
+
+# ditto
+class MacroSample
+  macro define_getter(*names)
+    {% for name in names %}
+      def {{name}}
+        @{{name}}
+      end
+    {% end %}
+  end
+
+  define_getter year, month, date, hour, min, sec
+end
 ```
-@[1-11]()
-@[2-8](Macroの定義)
-@[10](Macroの呼び出し)
-@[13-38](compile-time時のコード)
+
 ---
 
 ### Generics

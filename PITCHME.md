@@ -246,8 +246,6 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 
 ### Macros
 
-###### Have compile-time evaluation and generation of code, to avoid boilerplate code. |
-
 ```crystal
 class MacroSample
   macro define_getter(*names)
@@ -318,6 +316,9 @@ another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
 @[10-11](Int32のオブジェクトを生成)
 @[13-14](Stringのオブジェクトを生成)
 @[16](型が違うとError)
+
+---
+
 
 ---
 

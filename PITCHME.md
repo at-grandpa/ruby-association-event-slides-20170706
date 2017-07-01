@@ -696,4 +696,9 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+###### [Crystal new year resolutions for 2017: 1.0](https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html)
+
+<img src="assets/images/manas-blog-new-year-resolutions.png" width="80%">
+
+---
 

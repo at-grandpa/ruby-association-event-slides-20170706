@@ -207,6 +207,24 @@ end
 
 ---
 
+### Union types
+
+```crystal
+if 1 + 2 == 3
+  a = 1
+else
+  a = "hello"
+end
+
+a      # : Int32 | String
+a.to_s # => String
+a + 1  # Error, because String#+(Int32) isn't defined
+```
+
+[Crystal Docs - Union types](https://crystal-lang.org/docs/syntax_and_semantics/union_types.html)
+
+---
+
 ### Crystalについて
 ### いろいろ調べてきました
 

@@ -155,7 +155,7 @@
 
 ---
 
-### Crsytalってどんな感じなのか
+## What language is Crystal?
 
 ---
 
@@ -412,7 +412,7 @@ expansion 1:
 
 ---
 
-### Crystalについていろいろ調査
+## A survey on Crystal
 
 ---
 
@@ -424,7 +424,7 @@ expansion 1:
 
 ---
 
-### Crystalの歴史
+## History of Crystal
 
 ---
 
@@ -538,7 +538,7 @@ expansion 1:
 
 ---
 
-# Library
+## Library
 
 ---
 
@@ -692,7 +692,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### Crystalのこれから
+## The future of Crystal
 
 ---
 

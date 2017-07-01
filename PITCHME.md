@@ -336,6 +336,47 @@ end
 
 ---
 
+## $ crystal tool ⚒
+
+---
+
+### $ crystal context
+
+```
+$ crystal tool context -c context.cr:4:1 context.cr
+1 possible context found
+
+| Expr    | Type   |
+--------------------
+| a       | String |
+| b       | Int32  |
+| puts(a) |  Nil   |
+```
+
+---
+
+### $ crystal
+
+```crystal
+class Animal; end
+class Cat < Animal; end
+class Mike < Cat: end
+```
+```
+$ crystal tool hierarchy hierarchy.cr -e Animal
+- class Object (4 bytes)
+  |
+  +- class Reference (4 bytes)
+     |
+     +- class Animal (4 bytes)
+        |
+        +- class Cat (4 bytes)
+           |
+           +- class Mike (4 bytes)
+```
+
+---
+
 ### Crystalについて
 ### いろいろ調べてきました
 

@@ -115,6 +115,8 @@
 
 <img src="assets/images/techbookfest3.png" width="65%">
 
+<span class="fragment" style="font-size: 10px;"></span>
+
 
 ---?image=assets/images/crystal-web-site-top.png&size=cover
 

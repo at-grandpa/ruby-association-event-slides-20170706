@@ -195,8 +195,6 @@ s.print  # => Hello, Taro.
 
 ### Short one-argument syntax
 
-###### [Crystal Docs - Blocks and Procs](https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html)
-
 > A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
 
 ```crystal

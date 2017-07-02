@@ -197,6 +197,8 @@ s.print  # => Hello, Taro.
 
 > A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
 
+<span style="font-size: 20px;">[Crystal Docs] Blocks and Procs - https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html</span>
+
 ```crystal
 puts ["abc", "def", "ghi"].map do |arg|
   arg.upcase.reverse
@@ -206,16 +208,17 @@ end
 # ditto
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
-@[0]()
 @[1-4](block引数が１つ & メソッド呼び出しのみ)
 @[6-7](省略記法でも連続でメソッドが呼び出せる)
 
-<span style="font-size: 20px;">[Crystal Docs] Blocks and Procs - https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html</span>
 
 ---
 
 ### Union types
-###### [Crystal Docs - Union types](https://crystal-lang.org/docs/syntax_and_semantics/union_types.html)
+
+> The type of a variable or expression can consist of multiple types.
+
+<span style="font-size: 20px;">[Crystal Docs] Union types - https://crystal-lang.org/docs/syntax_and_semantics/union_types.html</span>
 
 ```crystal
 if 1 + 2 == 3
@@ -242,7 +245,7 @@ a + 1  # Error, because String#+(Int32) isn't defined
 undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float64 | Int32 | Int64 | MySQL::Types::Date | Slice(UInt8) | String | Time | Nil)) | Nil)) (did you mean 'to_s'?)
 ```
 
-###### 　
+<span style="font-size: 20px;">　</span>
 
 - 変数のスコープは小さくする |
 - 変数の型を明示的に書いてしまう |

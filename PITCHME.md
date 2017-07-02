@@ -26,8 +26,7 @@
 
 <img src="assets/images/blog-01-rubykaigi.png" width="60%">
 
-######
-<span style="font-size: 20px;font-weight: 600;">[http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)</span>
+<span style="font-size: 30px;font-weight: 600;">[http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)</span>
 
 
 ---

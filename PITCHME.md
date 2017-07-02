@@ -563,11 +563,12 @@ expansion 1:
 
 - 新しい世代の中では１〜２年遅れていそう |
 - キラーアプリ/キラーライブラリがない |
+  - kemal?
 - 実用事例が少ない |
 - 触る人は徐々に増え始めている印象 |
   - 海外の CodeCamp 開催頻度
-  - blogのpost数
-  - twitterの投稿数
+  - blogのpost頻度
+  - twitterの投稿頻度
   - 新規ライブラリの登場頻度
 - 日本だとちょっと下火？ |
 
@@ -750,7 +751,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### WHAT 1.0 MEANS
+### What 1.0 means
 
 The fundamental idea behind achieving a 1.0 milestone is to reach a point where breaking changes to the core of the language are down to a minimum.
 

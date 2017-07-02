@@ -254,6 +254,10 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 
 ### Macros
 
+> Macros are methods that receive AST nodes at compile-time and produce code that is pasted into a program.
+
+<span style="font-size: 20px;">[Crystal Docs] Macros - https://crystal-lang.org/docs/syntax_and_semantics/macros.html</span>
+
 ```crystal
 class MacroSample
   def year

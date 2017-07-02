@@ -26,7 +26,8 @@
 
 <img src="assets/images/blog-01-rubykaigi.png" width="60%">
 
-###### [http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)
+######
+<span style="font-size: 20px;font-weight: 600;">[http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)</span>
 
 
 ---
@@ -81,7 +82,7 @@
 
 <img src="assets/images/blog-03-des.png" width="70%">
 
-<span style="font-size: 30px;font-weight: 600;">[ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)</span>
+<span style="font-size: 40px;font-weight: 600;">[ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)</span>
 
 
 ---

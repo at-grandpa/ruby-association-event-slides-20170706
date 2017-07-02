@@ -539,7 +539,7 @@ expansion 1:
 
 <img src="assets/images/github-star-crystal.png" width="70%">
 
-<span class="star-graph star-graph-crystal">crystal</span>
+<span class="star-graph star-graph-crystal">Crystal</span>
 
 ---
 

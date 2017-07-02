@@ -545,6 +545,8 @@ expansion 1:
 
 <img src="assets/images/github-star-crystal-elixir.png" width="80%">
 
+<span style="font-size: 20px; color: #1660A7">Crystal, </span><span style="font-size: 20px; color: #FF6A00">Elixir</span>
+
 ---
 
 <img src="assets/images/github-star-crystal-elixir-rust.png " width="80%">

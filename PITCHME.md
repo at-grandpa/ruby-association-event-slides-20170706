@@ -562,6 +562,7 @@ expansion 1:
 <span class="star-graph star-graph-crystal">Crystal</span>
 
 ---
+<!-- .slide: data-background-transition="zoom" -->
 
 <img src="assets/images/github-star-crystal-elixir.png" width="70%">
 

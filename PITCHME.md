@@ -540,13 +540,13 @@ expansion 1:
 # aaaaaaa
 
 +++
-<!-- .slide: data-background-transition="none" -->
+<!-- .slide: data-background-transition="zoom" -->
 ![0](assets/images/github-star-crystal.png)
 +++
-<!-- .slide: data-background-transition="none" -->
+<!-- .slide: data-background-transition="slide" -->
 ![1](assets/images/github-star-crystal-elixir.png)
 +++
-<!-- .slide: data-background-transition="none" -->
+<!-- .slide: data-background-transition="fade" -->
 ![2](assets/images/github-star-crystal-elixir-rust.png)
 +++
 <!-- .slide: data-background-transition="none" -->

@@ -293,6 +293,10 @@ end
 
 ### Generics
 
+> Generics allow to parameterize a type based on other type.
+
+<span style="font-size: 20px;">[Crystal Docs] Generics - https://crystal-lang.org/docs/syntax_and_semantics/generics.html</span>
+
 ```crystal
 class MyBox(T)
   def initialize(@value : T)
@@ -319,6 +323,10 @@ another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
 ---
 
 ### abstract class
+
+> By marking a method as abstract the compiler will check that all subclasses implement this method, even if a program doesn't use them.
+
+<span style="font-size: 20px;">[Crystal Docs] Virtual and abstract types - https://crystal-lang.org/docs/syntax_and_semantics/virtual_and_abstract_types.html</span>
 
 ```crystal
 # abstract.cr

@@ -4,7 +4,6 @@
 
 - 資料は公開済みです
   - [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
-  - [@at_grandpa](https://twitter.com/at_grandpa)でつぶやきます
 - 実況ツイートなど大歓迎です
 - スライド中のリンクはクリックできます
   -  GitPitch便利
@@ -281,7 +280,7 @@ class MacroSample
   define_getter year, month, date
 end
 ```
-@[1-13](定型的なメソッド)
+@[2-12](定型的なメソッド)
 @[15-26](Macroを使ってまとめる)
 
 ---
@@ -344,7 +343,7 @@ end
 ## $ crystal tool context
 
 ```
-$ crystal tool context -c context.cr:4:1 context.cr
+$ crystal tool context --cursor context.cr:4:1 context.cr
 1 possible context found
 
 | Expr    | Type   |
@@ -409,7 +408,7 @@ puts [1, 2, 3].map(&.to_s)
 ## $ crystal tool expand
 
 ```
-$ crystal tool expand -c macro.cr:10:3 macro.cr
+$ crystal tool expand --cursor macro.cr:10:3 macro.cr
 1 expansion found
 expansion 1:
    define_getter(year, month, date, hour, min, sec)
@@ -440,8 +439,7 @@ expansion 1:
 
 <img src="assets/images/qiita-crystal-2017.png" width="55%">
 
-<span style="font-size: 30px;">author: [@yahhonob](https://twitter.com/yahhonob)さん</span>
-
+<span style="font-size: 30px;">author: [@yahhonob](https://twitter.com/yahhonob)さん</span></br>
 <span style="font-size: 20px;">http://qiita.com/yahhonob/items/a24dee215c70425196d3</span>
 
 ---

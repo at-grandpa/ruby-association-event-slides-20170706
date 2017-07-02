@@ -195,8 +195,6 @@ s.print  # => Hello, Taro.
 
 ### Short one-argument syntax
 
-> A short syntax exists for specifying a block that receives a single argument and invokes a method on it.
-
 <span style="font-size: 20px;"> Blocks and Procs - https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html</span>
 
 ```crystal
@@ -215,8 +213,6 @@ puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ---
 
 ### Union types
-
-> The type of a variable or expression can consist of multiple types.
 
 <span style="font-size: 20px;">Union types - https://crystal-lang.org/docs/syntax_and_semantics/union_types.html</span>
 
@@ -245,7 +241,7 @@ a + 1  # Error, because String#+(Int32) isn't defined
 undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float64 | Int32 | Int64 | MySQL::Types::Date | Slice(UInt8) | String | Time | Nil)) | Nil)) (did you mean 'to_s'?)
 ```
 
-<span style="font-size: 20px;">　</span>
+<span style="font-size: 1px;">　</span>
 
 - 変数のスコープは小さくする |
 - 変数の型を明示的に書いてしまう |
@@ -253,8 +249,6 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 ---
 
 ### Macros
-
-> Macros are methods that receive AST nodes at compile-time and produce code that is pasted into a program.
 
 <span style="font-size: 20px;">Macros - https://crystal-lang.org/docs/syntax_and_semantics/macros.html</span>
 
@@ -293,8 +287,6 @@ end
 
 ### Generics
 
-> Generics allow to parameterize a type based on other type.
-
 <span style="font-size: 20px;">Generics - https://crystal-lang.org/docs/syntax_and_semantics/generics.html</span>
 
 ```crystal
@@ -323,8 +315,6 @@ another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
 ---
 
 ### abstract class
-
-> By marking a method as abstract the compiler will check that all subclasses implement this method, even if a program doesn't use them.
 
 <span style="font-size: 20px;">Virtual and abstract types - https://crystal-lang.org/docs/syntax_and_semantics/virtual_and_abstract_types.html</span>
 

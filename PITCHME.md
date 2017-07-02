@@ -354,7 +354,8 @@ $ crystal tool context -c context.cr:4:1 context.cr
 | puts(a) |  Nil   |
 ```
 
-- カーソル位置のスコープでの変数やメソッドの型を表示
+- カーソル位置のスコープが対象
+- 変数やメソッドの型を表示
 
 ---
 
@@ -435,9 +436,9 @@ expansion 1:
 
 ---
 
-### Crystal 言語周辺の 2017年は？（妄想）
+#### Crystal 言語周辺の 2017年は？（妄想）
 
-<img src="assets/images/qiita-crystal-2017.png" width="50%">
+<img src="assets/images/qiita-crystal-2017.png" width="55%">
 
 <span style="font-size: 30px;">author: [@yahhonob](https://twitter.com/yahhonob)さん</span>
 

@@ -244,7 +244,7 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 <span style="font-size: 1px;">　</span>
 
 - 変数のスコープは小さくする |
-- 変数の型を明示的に書いてしまう |
+- 変数の型を明示的に書く |
 
 ---
 
@@ -425,6 +425,8 @@ expansion 1:
 ```
 
 - カーソル位置のMacrosを展開
+
+---
 
 ---
 
@@ -754,7 +756,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-###### THE ROAD TOWARDS A 1.0 RELEASE
+###### The road towards a 1.0 release
 
 
 ---
@@ -762,7 +764,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Parallelism
 
 - 1.0に向けた一番大きな機能 |
-- Threadクラスはあるが、「Don't use this class」になっている |
+- Threadクラスは既に存在しているが、「Don't use this class」になっている |
 - 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
 

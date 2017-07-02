@@ -327,10 +327,10 @@ end
 
 class Dog < Animal
 end
-#  Error in abstract.cr:2: abstract `def Animal#talk()` must be implemented by Dog
+# Error in abstract.cr:2: abstract `def Animal#talk()` must be implemented by Dog
 #
-#    abstract def talk
-#                 ^~~~
+#   abstract def talk
+#                ^~~~
 ```
 @[1-4](abstractメソッドを定義)
 @[6-11](存在しなければError)
@@ -354,6 +354,8 @@ $ crystal tool context -c context.cr:4:1 context.cr
 | puts(a) |  Nil   |
 ```
 
+- カーソル位置のスコープでの変数やメソッドの型を表示
+
 ---
 
 ### $ crystal tool hierarchy
@@ -375,6 +377,9 @@ $ crystal tool hierarchy hierarchy.cr -e Animal
            |
            +- class Mike (4 bytes)
 ```
+
+- 継承関係を図で表示
+- -e オプションでクラス名指定
 
 ---
 

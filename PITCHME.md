@@ -115,7 +115,7 @@
 
 <img src="assets/images/techbookfest3.png" width="65%">
 
-<span class="fragment visible" style="font-size: 10px;">技術書典３ - https://techbookfest.org/event/tbf03</span>
+<span class="fragment visible" style="font-size: 20px;">技術書典３ - https://techbookfest.org/event/tbf03</span>
 
 
 ---?image=assets/images/crystal-web-site-top.png&size=cover

@@ -469,7 +469,7 @@ expansion 1:
 
 ### Crystal reached 4000 stars on GitHub
 
-# 🌟 🌟 🌟 🌟
+### 🌟 🌟 🌟 🌟
 
 #### 2015.12.22
 
@@ -538,7 +538,7 @@ expansion 1:
 
 ---
 
-## Library
+# Library
 
 ---
 

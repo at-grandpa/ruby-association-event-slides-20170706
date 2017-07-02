@@ -169,6 +169,8 @@
 - Have compile-time evaluation and generation of code, to avoid boilerplate code. |
 - Compile to efficient native code. |
 
+<span style="font-size: 15px;">crystal-lang/crystal - https://github.com/crystal-lang/crystal/blob/master/README.md</span>
+
 ---
 
 ### Syntax

@@ -763,8 +763,6 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - 1.0に向けた一番大きな機能 |
 - Threadクラスはあるが、「Don't use this class」になっている |
-- [thread-support] branchで開発中 |
-  - 最近コミットされていない...
 - 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
 
@@ -774,7 +772,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - Windowsのサポートへの期待は大きい |
 - Cross-platform desktop apps |
-- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
+- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)  |
   - WindowsサポートへのRoadmap
 
 ---
@@ -814,6 +812,29 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ---
 
 ## How to get there
+
+- ManasがCrystalへの時間を増やす
+- 仕事でやってるよ
+- オープンソースの力に期待している
+- crystallerって増えているよね
+- コントリビュートのガイドライン整理するよ
+- 新しい人が容易に入れるようにするよ
+  - Crystalが何者なのか、動的言語から来た人に教えたい
+  - ドキュメントやチュートリアルを改善
+  - ユースケースの定義を支援
+
+
+---
+
+## Next Steps
+
+- 並列処理重視
+- Windowsサポート重視
+- ガイドライン整備
+- githubのラベルの付け直し
+
+
+これらって、この半年でどうなの？
 
 
 

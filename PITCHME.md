@@ -337,11 +337,11 @@ end
 
 ---
 
-## $ crystal tool
+# $ crystal tool
 
 ---
 
-### $ crystal tool context
+## $ crystal tool context
 
 ```
 $ crystal tool context -c context.cr:4:1 context.cr
@@ -359,7 +359,7 @@ $ crystal tool context -c context.cr:4:1 context.cr
 
 ---
 
-### $ crystal tool hierarchy
+## $ crystal tool hierarchy
 
 ```crystal
 class Animal; end
@@ -384,7 +384,7 @@ $ crystal tool hierarchy hierarchy.cr -e Animal
 
 ---
 
-### $ crystal tool format
+## $ crystal tool format
 
 ```crystal
 # before
@@ -406,7 +406,7 @@ puts [1, 2, 3].map(&.to_s)
 
 ---
 
-### $ crystal tool expand
+## $ crystal tool expand
 
 ```
 $ crystal tool expand -c macro.cr:10:3 macro.cr
@@ -537,26 +537,6 @@ expansion 1:
 
 ---
 
-# aaaaaaa
-
-+++
-<!-- .slide: data-background-transition="zoom" -->
-![0](assets/images/github-star-crystal.png)
-+++
-<!-- .slide: data-background-transition="slide" -->
-![1](assets/images/github-star-crystal-elixir.png)
-+++
-<!-- .slide: data-background-transition="fade" -->
-![2](assets/images/github-star-crystal-elixir-rust.png)
-+++
-<!-- .slide: data-background-transition="none" -->
-![3](image=assets/images/github-star-crystal-elixir-rust-go.png)
-+++
-<!-- .slide: data-background-transition="none" -->
-![4](image=assets/images/github-star-crystal-elixir-rust-go-swift.png)
-
----
-
 <img src="assets/images/github-star-crystal.png" width="70%">
 
 <span class="star-graph star-graph-crystal">Crystal</span>
@@ -600,16 +580,16 @@ expansion 1:
 
 ---
 
-### なかなか突出しないが
+### なかなか突出できてないが
 ### 言語としては順当に成長している
 
 ---
 
-# Library
+## Library
 
 ---
 
-### shards
+## shards
 
 - rubyの`bundler`的存在
 - `shards.yml`に設定記述
@@ -699,7 +679,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### ライブラリを紹介しているサイト
+## ライブラリを紹介しているサイト
 
 
 ---
@@ -741,31 +721,27 @@ $ crystal run src/kemal_test.cr
 
 ---
 
----
-
 ## Exciting Issue or PR
 
 ---
 
-###### What to do with global variables? #3139
+##### What to do with global variables? #3139
 
 <img src="assets/images/issue-pr-remove-global-variables.png" width="60%">
 
-###### v0.19.0
+###### The global variable has been removed in v0.19.0
 
 <span style="font-size: 20px;">https://github.com/crystal-lang/crystal/issues/3139</span>
 
 ---
 
-###### Add intro sort to Array #3514
+##### Add intro sort to Array #3514
 
 <img src="assets/images/issue-pr-add-intro-sort.png" width="60%">
 
 ###### [Introsort - Wikipedia](https://en.wikipedia.org/wiki/Introsort)
 
 <span style="font-size: 20px;">https://github.com/crystal-lang/crystal/pull/3514</span>
-
----
 
 ---
 

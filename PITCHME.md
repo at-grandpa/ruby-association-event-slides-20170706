@@ -537,29 +537,29 @@ expansion 1:
 
 ---
 
-<img src="assets/images/github-star-crystal.png" width="80%">
+<img src="assets/images/github-star-crystal.png" width="70%">
 
 <span class="star-graph star-graph-crystal">crystal</span>
 
 ---
 
-<img src="assets/images/github-star-crystal-elixir.png" width="80%">
+<img src="assets/images/github-star-crystal-elixir.png" width="70%">
 
 <span class="star-graph star-graph-elixir">Elixir, </span><span class="star-graph star-graph-crystal">Crystal</span>
 
 ---
 
-<img src="assets/images/github-star-crystal-elixir-rust.png " width="80%">
+<img src="assets/images/github-star-crystal-elixir-rust.png " width="70%">
 
 <span class="star-graph star-graph-elixir">Rust, </span><span class="star-graph star-graph-elixir">Elixir, </span><span class="star-graph star-graph-crystal">Crystal</span>
 
 ---
 
-<img src="assets/images/github-star-crystal-elixir-rust-go.png" width="80%">
+<img src="assets/images/github-star-crystal-elixir-rust-go.png" width="70%">
 
 ---
 
-<img src="assets/images/github-star-crystal-elixir-rust-go-swift.png" width="80%">
+<img src="assets/images/github-star-crystal-elixir-rust-go-swift.png" width="70%">
 
 ---
 

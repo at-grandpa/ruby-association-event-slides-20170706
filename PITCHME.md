@@ -401,6 +401,8 @@ end
 puts [1, 2, 3].map(&.to_s)
 ```
 
+- 空白と改行の整形
+
 ---
 
 ### $ crystal tool expand
@@ -421,6 +423,8 @@ expansion 1:
      @date
    end
 ```
+
+- カーソル位置のMacrosを展開
 
 ---
 

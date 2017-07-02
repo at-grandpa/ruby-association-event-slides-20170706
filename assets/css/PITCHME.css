@@ -25,3 +25,9 @@
 .reveal .fragment.current-only {
   color: #555;
 }
+
+.reveal blockquote {
+  color: #6aa;
+  font-size: 42px;
+}
+

@@ -719,4 +719,61 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Parallelism
 
-- thread ブランチが存在する
+- 1.0に向けた一番大きな機能
+- 既にThreadクラスはあるが、「Don't use this class」になっている
+- [thread-support] branchで開発中
+  - 最近コミットされていない...
+- 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある
+  - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
+
+---
+
+### Windows support
+
+- Windowsのサポートへの期待は大きい
+- Cross-platform desktop apps
+- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
+  - WindowsサポートへのRoadmap
+
+---
+
+### Type system
+
+- 型推論のさらなるブラッシュアップ
+- Generics周りでの再レビューに必要性がある
+
+---
+
+### Incremental compilation
+
+- Crystalはコンパイル時間が遅い印象がある
+  - rustやgoと比べられがち
+  - redditやgoogle-groupでも話題に挙がる
+- 特にMacros周りが遅い
+  - コンパイル時にコードを生成しているので
+- 1.0にはmustではないという認識なので、後回しになるかも
+
+---
+
+### Macros
+
+- 「1.0以降でMacrosに Breaking-changes を入れたくない！」
+  - AST触ったり、コンパイルプロセスにフックできたりするので
+- わかる
+
+
+---
+
+### Syntax
+
+- (Macrosと同じように)1.0以降ではSyntaxは固定する
+- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で固定する
+
+---
+
+## How to get there
+
+
+
+
+

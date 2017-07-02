@@ -206,6 +206,7 @@ end
 # ditto
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
+@[0]()
 @[1-4](block引数が１つ & メソッド呼び出しのみ)
 @[6-7](省略記法でも連続でメソッドが呼び出せる)
 

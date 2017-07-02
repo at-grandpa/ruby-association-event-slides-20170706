@@ -539,13 +539,13 @@ expansion 1:
 
 <img src="assets/images/github-star-crystal.png" width="80%">
 
-<span class="star-graph" style="color: #1660A7">crystal</span>
+<span class="star-graph star-graph-crystal" style="color: #1660A7">crystal</span>
 
 ---
 
 <img src="assets/images/github-star-crystal-elixir.png" width="80%">
 
-<span class="star-graph" style="color: #1660A7">Crystal, </span><span class="star-graph" style="color: #FF6A00">Elixir</span>
+<span class="star-graph" style="color: #FF6A00">Elixir, </span> <span class="star-graph" style="color: #1660A7">Crystal</span>
 
 ---
 

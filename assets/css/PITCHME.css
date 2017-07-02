@@ -34,3 +34,7 @@
 .star-graph span {
   font-size: 50px;
 }
+
+.star-graph .star-graph-crystal span {
+  color: #1660A7
+}

@@ -83,8 +83,6 @@
 
 <span style="font-size: 30px;font-weight: 600;">[ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)</span>
 
-TODO:Bold
-
 
 ---
 

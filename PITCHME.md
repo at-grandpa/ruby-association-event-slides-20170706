@@ -588,7 +588,7 @@ expansion 1:
 - rubyの`bundler`的存在
 - `shards.yml`に設定記述
 - githubのリポジトリ指定
-  - branchやタグ指定可能
+  - branchやタグを指定可能
 - `shards.lock`を生成
 
 ---
@@ -673,7 +673,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-## ライブラリを紹介しているサイト
+### ライブラリを紹介しているサイト
 
 
 ---
@@ -764,55 +764,54 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Parallelism
 
-- 1.0に向けた一番大きな機能
-- 既にThreadクラスはあるが、「Don't use this class」になっている
-- [thread-support] branchで開発中
+- 1.0に向けた一番大きな機能 |
+- Threadクラスはあるが、「Don't use this class」になっている |
+- [thread-support] branchで開発中 |
   - 最近コミットされていない...
-- 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある
+- 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
 
 ---
 
 ### Windows support
 
-- Windowsのサポートへの期待は大きい
-- Cross-platform desktop apps
-- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
+- Windowsのサポートへの期待は大きい |
+- Cross-platform desktop apps |
+- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
   - WindowsサポートへのRoadmap
 
 ---
 
 ### Type system
 
-- 型推論のさらなるブラッシュアップ
-- Generics周りでの再レビューに必要性がある
+- 型推論のさらなるブラッシュアップ |
+- Generics周りでの再レビューに必要性がある |
 
 ---
 
 ### Incremental compilation
 
-- Crystalはコンパイル時間が遅い印象がある
+- Crystalはコンパイル時間が遅い印象がある |
   - rustやgoと比べられがち
   - redditやgoogle-groupでも話題に挙がる
-- 特にMacros周りが遅い
+- 特にMacros周りが遅い |
   - コンパイル時にコードを生成しているので
-- 1.0にはmustではないという認識なので、後回しになるかも
+- 1.0にはmustではないという認識なので、後回しになるかも |
 
 ---
 
 ### Macros
 
-- 「1.0以降でMacrosに Breaking-changes を入れたくない！」
+- 「1.0以降でMacrosに Breaking-changes を入れたくない！」 |
   - AST触ったり、コンパイルプロセスにフックできたりするので
-- わかる
 
 
 ---
 
 ### Syntax
 
-- (Macrosと同じように)1.0以降ではSyntaxは固定する
-- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で固定する
+- (Macrosと同様)1.0以降ではSyntaxは固定する |
+- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で固定する |
 
 ---
 

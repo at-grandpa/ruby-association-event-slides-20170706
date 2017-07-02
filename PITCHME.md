@@ -451,7 +451,7 @@ expansion 1:
 
 ###### The story behind #CrystalLang
 
-<img src="assets/images/the-story-behind-crystal-lang.png" width="50%">
+<img src="assets/images/the-story-behind-crystal-lang.png" width="55%">
 
 <span style="font-size: 20px;">https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html</span>
 

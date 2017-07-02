@@ -523,8 +523,8 @@ expansion 1:
 
 ---
 
-### 現時点では...
-### [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
+### Current stargazers
+##### [crystal-lang/crystal/stargazers](https://github.com/crystal-lang/crystal/stargazers)
 
 ---
 
@@ -538,6 +538,8 @@ expansion 1:
 ---
 
 <img src="assets/images/github-star-crystal.png" width="80%">
+
+<span style="font-size: 20px; color: #1660A7">crystal</span>
 
 ---
 

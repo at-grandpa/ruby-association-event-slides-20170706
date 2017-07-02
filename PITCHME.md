@@ -437,8 +437,7 @@ expansion 1:
 
 #### Crystal 言語周辺の 2017年は？（妄想）
 
-<img src="assets/images/qiita-crystal-2017.png" width="55%">
-
+<img src="assets/images/qiita-crystal-2017.png" width="55%"></br>
 <span style="font-size: 30px;">author: [@yahhonob](https://twitter.com/yahhonob)さん</span></br>
 <span style="font-size: 20px;">http://qiita.com/yahhonob/items/a24dee215c70425196d3</span>
 
@@ -526,12 +525,9 @@ expansion 1:
 
 ---
 
-### Star数の推移を追ってみる 📈
+### Star history 📈
 
----
-
-### 便利なサイト
-### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
+###### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
 
 ---
 

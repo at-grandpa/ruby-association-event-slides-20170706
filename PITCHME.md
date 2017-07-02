@@ -449,7 +449,7 @@ expansion 1:
 
 ---
 
-###### The story behind #CrystalLang
+#### The story behind #CrystalLang
 
 <img src="assets/images/the-story-behind-crystal-lang.png" width="55%">
 
@@ -457,7 +457,7 @@ expansion 1:
 
 ---
 
-###### Initial commit
+#### Initial commit
 
 <img src="assets/images/initial-commit.png" width="80%">
 
@@ -467,7 +467,7 @@ expansion 1:
 
 ---
 
-###### First blog post
+#### First blog post
 
 <img src="assets/images/manas-blog-hello-world.png" width="70%">
 
@@ -477,7 +477,7 @@ expansion 1:
 
 ---
 
-###### The compiler written in Crystal can compile itself
+#### The compiler written in Crystal can compile itself
 
 <img src="assets/images/manas-blog-good-by-ruby-thursday.png" width="50%">
 
@@ -487,7 +487,7 @@ expansion 1:
 
 ---
 
-###### First official release
+#### First official release
 
 <img src="assets/images/first-official-release.png" width="80%">
 
@@ -497,7 +497,7 @@ expansion 1:
 
 ---
 
-###### Crystal reached 4000 stars on GitHub
+#### Crystal reached 4000 stars on GitHub
 
 #### 🌟 🌟 🌟 🌟
 
@@ -507,7 +507,7 @@ expansion 1:
 
 ---
 
-###### First Meetup in Argentina
+#### First Meetup in Argentina
 
 <img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="60%">
 

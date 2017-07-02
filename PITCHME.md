@@ -790,11 +790,11 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Incremental compilation
 
 - Crystalはコンパイル時間が遅い印象がある |
-  - rustやgoと比べられがち
-  - redditやgoogle-groupでも話題に挙がる
+  - RustやGoと比べられがち
+  - RedditやGoogle-Groupでも話題に挙がる
 - 特にMacros周りが遅い |
   - コンパイル時にコードを生成しているので
-- 1.0にはmustではないという認識なので、後回しになるかも |
+- v1.0にはmustではないという認識なので、後回しになるかも |
 
 ---
 
@@ -810,36 +810,50 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Syntax
 
 - (Macrosと同様)1.0以降ではSyntaxは固定する |
-- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で固定する |
-
----
-
-## How to get there
-
-- ManasがCrystalへの時間を増やす
-- 仕事でやってるよ
-- オープンソースの力に期待している
-- crystallerって増えているよね
-- コントリビュートのガイドライン整理するよ
-- 新しい人が容易に入れるようにするよ
-  - Crystalが何者なのか、動的言語から来た人に教えたい
-  - ドキュメントやチュートリアルを改善
-  - ユースケースの定義を支援
-
+- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上1.0を迎える |
 
 ---
 
 ## Next Steps
 
-- 並列処理重視
-- Windowsサポート重視
-- ガイドライン整備
-- githubのラベルの付け直し
+- まずは並列処理
+- 次にWindowsサポート
+- 参入障壁を下げる
+  - ガイドライン整備
+  - githubのラベルの付け直し
 
+---
 
-これらって、この半年でどうなの？
+###### ここまでは年末の話
+#### この半年でどうなったか
 
+---
 
+### Parallelism?
 
+- 2017/04/29 : [Wik - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support) |
+  - multithread-enabled Fibers を使用するためのWiki
+- Random notes |
+  - Schedulerがreentrant-safeではない
+  - その対応をsingle-msqueueブランチで開発している
+- 最終コミットは３ヶ月前 |
 
+---
+
+### Windows support?
+
+- [WIP -  Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
+- 昔は開発者の中にWindowsを使っている人がいなくて、開発がなかなか進まなかった
+- しかし、Windowsユーザーの比率等を考慮すると、重要だという結論になった
+- 直近２週間くらいで議論が続いている
+  - 停滞はしていない、活発
+
+---
+
+### For newcomers
+
+- 2017/03/23 : Webサイトが新しくなった |
+- 2017/05/31 : Crystal core team による Q&A session のライブ配信
+  - [https://www.youtube.com/watch?v=E25AGpYyQw0](https://www.youtube.com/watch?v=E25AGpYyQw0)
+- 2017/07/03 : manページの追加
 

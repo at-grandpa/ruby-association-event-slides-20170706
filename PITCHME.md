@@ -169,7 +169,7 @@
 - Have compile-time evaluation and generation of code, to avoid boilerplate code. |
 - Compile to efficient native code. |
 
-<span style="font-size: 15px;">crystal-lang/crystal - https://github.com/crystal-lang/crystal/blob/master/README.md</span>
+<span style="font-size: 20px;">crystal-lang/crystal - https://github.com/crystal-lang/crystal/blob/master/README.md</span>
 
 ---
 
@@ -211,6 +211,7 @@ puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 @[1-4](block引数が１つ & メソッド呼び出しのみ)
 @[6-7](省略記法でも連続でメソッドが呼び出せる)
 
+<span style="font-size: 20px;">[Crystal Docs] Blocks and Procs - https://crystal-lang.org/docs/syntax_and_semantics/blocks_and_procs.html</span>
 
 ---
 

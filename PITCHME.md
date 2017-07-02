@@ -503,7 +503,7 @@ expansion 1:
 
 ###### 2016.02.04
 
-<span style="font-size: 20px;">Primera meetup de Crystal en Buenos Aires</span>
+<span style="font-size: 20px;">Primera meetup de Crystal en Buenos Aires</span></br>
 <span style="font-size: 20px;">https://www.meetup.com/Crystal-Language-Buenos-Aires/events/227938900/</span>
 
 

@@ -42,3 +42,15 @@
 .reveal p span.star-graph-elixir {
   color: #FF6A00
 }
+
+.reveal p span.star-graph-rust {
+  color: #22941A
+}
+
+.reveal p span.star-graph-go {
+  color: #CB0D19
+}
+
+.reveal p span.star-graph-swift {
+  color: #814BB0
+}

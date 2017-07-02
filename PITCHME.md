@@ -425,11 +425,13 @@ expansion 1:
 
 ---
 
-### [Crystal 言語周辺の 2017年は？（妄想）](http://qiita.com/yahhonob/items/a24dee215c70425196d3)
+### Crystal 言語周辺の 2017年は？（妄想）
 
 <img src="assets/images/qiita-crystal-2017.png" width="55%">
 
 ###### author: [@yahhonob](https://twitter.com/yahhonob)さん
+
+<span style="font-size: 20px;">Crystal 言語周辺の 2017年は？（妄想） - http://qiita.com/yahhonob/items/a24dee215c70425196d3</span>
 
 ---
 
@@ -437,10 +439,11 @@ expansion 1:
 
 ---
 
-### [The story behind #CrystalLang](https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html)
+### The story behind #CrystalLang
 
 <img src="assets/images/the-story-behind-crystal-lang.png" width="60%">
 
+<span style="font-size: 20px;">The story behind #CrystalLang - https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html</span>
 
 ---
 
@@ -450,6 +453,8 @@ expansion 1:
 
 #### 2011.06.21
 
+<span style="font-size: 20px;">Initial commit - https://github.com/asterite/crystal/commit/50db22908a11b070c56524cc9bbd74332ad3a7c7</span>
+
 ---
 
 ### First blog post
@@ -457,6 +462,8 @@ expansion 1:
 <img src="assets/images/manas-blog-hello-world.png" width="70%">
 
 #### 2013.07.10
+
+<span style="font-size: 20px;">Hello World - https://crystal-lang.org/2013/07/10/hello-world.html</span>
 
 ---
 
@@ -466,6 +473,8 @@ expansion 1:
 
 #### 2013.11.14
 
+<span style="font-size: 20px;">Good bye Ruby Thursday - https://crystal-lang.org/2013/11/14/good-bye-ruby-thursday.html</span>
+
 ---
 
 ### First official release
@@ -473,6 +482,8 @@ expansion 1:
 <img src="assets/images/first-official-release.png" width="80%">
 
 #### 2014.06.19
+
+<span style="font-size: 20px;">Release 0.1.0 · crystal-lang/crystal - https://github.com/crystal-lang/crystal/releases/tag/0.1.0</span>
 
 ---
 
@@ -482,6 +493,8 @@ expansion 1:
 
 #### 2015.12.22
 
+<span style="font-size: 20px;">Stargazers · crystal-lang/crystal - https://github.com/crystal-lang/crystal/stargazers</span>
+
 ---
 
 ### First Meetup in Argentina
@@ -489,6 +502,10 @@ expansion 1:
 <img src="assets/images/manas-blog-meet-up-in-buenos-aires.png" width="60%">
 
 #### 2016.02.04
+
+<span style="font-size: 20px;">Primera meetup de Crystal en Buenos Aires</span>
+<span style="font-size: 20px;">https://www.meetup.com/Crystal-Language-Buenos-Aires/events/227938900/</span>
+
 
 ---
 

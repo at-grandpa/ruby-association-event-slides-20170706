@@ -66,7 +66,7 @@
 
 <img src="assets/images/google-group-03-answer.png" width="50%">
 
-###### 「Hi, grandpa」=「やぁ、おじいちゃん」
+###### 「やぁ、おじいちゃん」
 
 
 ---
@@ -336,7 +336,7 @@ end
 
 ---
 
-# $ crystal tool
+## $ crystal tool
 
 ---
 
@@ -425,9 +425,6 @@ expansion 1:
 ```
 
 - カーソル位置のMacrosを展開
-
----
-
 
 ---
 
@@ -785,7 +782,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Type system
 
 - 型推論のさらなるブラッシュアップ |
-- Generics周りでの再レビューに必要性がある |
+- Generics周りで再レビューが必要 |
 
 ---
 
@@ -804,6 +801,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - 「1.0以降でMacrosに Breaking-changes を入れたくない！」 |
   - AST触ったり、コンパイルプロセスにフックできたりするので
+  - 影響範囲大
 
 
 ---

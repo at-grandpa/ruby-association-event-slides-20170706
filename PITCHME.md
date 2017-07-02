@@ -101,7 +101,7 @@
 
 <img src="assets/images/blog-04-study-crystal.png" width="80%">
 
-<span style="font-size: 20px;font-weight: 600;">http://at-grandpa.hatenablog.jp/entry/2016/12/01/194854</span>
+<span style="font-size: 25px;font-weight: 600;">http://at-grandpa.hatenablog.jp/entry/2016/12/01/194854</span>
 
 ---
 

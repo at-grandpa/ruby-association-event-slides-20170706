@@ -431,7 +431,7 @@ expansion 1:
 
 <span style="font-size: 30px;">author: [@yahhonob](https://twitter.com/yahhonob)さん</span>
 
-<span style="font-size: 20px;">Crystal 言語周辺の 2017年は？（妄想） - http://qiita.com/yahhonob/items/a24dee215c70425196d3</span>
+<span style="font-size: 20px;">http://qiita.com/yahhonob/items/a24dee215c70425196d3</span>
 
 ---
 
@@ -443,7 +443,7 @@ expansion 1:
 
 <img src="assets/images/the-story-behind-crystal-lang.png" width="50%">
 
-<span style="font-size: 20px;">The story behind #CrystalLang - https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html</span>
+<span style="font-size: 20px;">https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html</span>
 
 ---
 
@@ -453,7 +453,7 @@ expansion 1:
 
 ###### 2011.06.21
 
-<span style="font-size: 20px;">Initial commit - https://github.com/asterite/crystal/commit/50db22908a11b070c56524cc9bbd74332ad3a7c7</span>
+<span style="font-size: 20px;">https://github.com/asterite/crystal/commit/50db22908a11b070c56524cc9bbd74332ad3a7c7</span>
 
 ---
 
@@ -463,7 +463,7 @@ expansion 1:
 
 ###### 2013.07.10
 
-<span style="font-size: 20px;">Hello World - https://crystal-lang.org/2013/07/10/hello-world.html</span>
+<span style="font-size: 20px;">https://crystal-lang.org/2013/07/10/hello-world.html</span>
 
 ---
 
@@ -473,7 +473,7 @@ expansion 1:
 
 ###### 2013.11.14
 
-<span style="font-size: 20px;">Good bye Ruby Thursday - https://crystal-lang.org/2013/11/14/good-bye-ruby-thursday.html</span>
+<span style="font-size: 20px;">https://crystal-lang.org/2013/11/14/good-bye-ruby-thursday.html</span>
 
 ---
 
@@ -483,7 +483,7 @@ expansion 1:
 
 ###### 2014.06.19
 
-<span style="font-size: 20px;">Release 0.1.0 · crystal-lang/crystal - https://github.com/crystal-lang/crystal/releases/tag/0.1.0</span>
+<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/releases/tag/0.1.0</span>
 
 ---
 
@@ -493,7 +493,7 @@ expansion 1:
 
 ###### 2015.12.22
 
-<span style="font-size: 20px;">Stargazers · crystal-lang/crystal - https://github.com/crystal-lang/crystal/stargazers</span>
+<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/stargazers</span>
 
 ---
 
@@ -503,7 +503,6 @@ expansion 1:
 
 ###### 2016.02.04
 
-<span style="font-size: 20px;">Primera meetup de Crystal en Buenos Aires</span></br>
 <span style="font-size: 20px;">https://www.meetup.com/Crystal-Language-Buenos-Aires/events/227938900/</span>
 
 
@@ -663,17 +662,19 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### [AWESOME CRYSTAL](http://awesome-crystal.com/)
+### AWESOME CRYSTAL
 
 <img src="assets/images/awesome-crystal.png" width="60%">
 
+<span style="font-size: 20px;">http://awesome-crystal.com/</span>
 
 ---
 
-### [CrystalShards](http://crystalshards.xyz/)
+### CrystalShards
 
 <img src="assets/images/crystalshards-xyz.png" width="60%">
 
+<span style="font-size: 20px;">http://crystalshards.xyz/</span>
 
 ---
 
@@ -704,19 +705,23 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-###### [What to do with global variables? #3139](https://github.com/crystal-lang/crystal/issues/3139)
+###### What to do with global variables? #3139
 
 <img src="assets/images/issue-pr-remove-global-variables.png" width="60%">
 
 ###### v0.19.0
 
+<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/issues/3139</span>
+
 ---
 
-###### [Add intro sort to Array #3514](https://github.com/crystal-lang/crystal/pull/3514)
+###### Add intro sort to Array #3514
 
 <img src="assets/images/issue-pr-add-intro-sort.png" width="60%">
 
 ###### [Introsort - Wikipedia](https://en.wikipedia.org/wiki/Introsort)
+
+<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/pull/3514</span>
 
 ---
 
@@ -726,9 +731,11 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-###### [Crystal new year resolutions for 2017: 1.0](https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html)
+###### Crystal new year resolutions for 2017: 1.0
 
 <img src="assets/images/manas-blog-new-year-resolutions.png" width="80%">
+
+<span style="font-size: 20px;">https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html</span>
 
 ---
 

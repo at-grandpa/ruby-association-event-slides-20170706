@@ -31,14 +31,14 @@
   font-size: 25px;
 }
 
-.reveal p  span.star-graph {
-  font-size: 10px;
+.reveal p span.star-graph {
+  font-size: 40px;
 }
 
-.reveal p  span.star-graph-crystal {
+.reveal p span.star-graph-crystal {
   color: #1660A7
 }
 
-.reveal p  span.star-graph-elixir {
+.reveal p span.star-graph-elixir {
   color: #FF6A00
 }

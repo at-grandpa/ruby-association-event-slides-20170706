@@ -838,7 +838,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 - Random notes |
   - Schedulerがreentrant-safeではない
   - その対応をsingle-msqueueブランチで開発中
-    - 最終コミットは３ヶ月前 |
+    - 最終コミットは３ヶ月前
 
 ---
 

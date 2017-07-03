@@ -857,5 +857,13 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 - 2017/05/31 : Crystal core team による Q&A session のライブ配信 |
   - youtubeでライブ配信された
   - [録画したものはこちら](https://www.youtube.com/watch?v=E25AGpYyQw0)
-- 2017/07/03 : manページの追加
+- 2017/06/27 : manページの追加
+  - v0.23.0から
+
+---
+
+## Growing 😄
+
+---
+
 

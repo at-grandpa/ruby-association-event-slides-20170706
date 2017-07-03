@@ -24,13 +24,6 @@
 
 ---
 
-<img src="assets/images/blog-01-rubykaigi.png" width="60%">
-
-<span style="font-size: 30px;font-weight: 600;">[http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547](http://at-grandpa.hatenablog.jp/entry/2016/09/09/083547)</span>
-
-
----
-
 ## 🎉 RubyKaigi 2017 ⛩
 
 <img src="assets/images/rubykaigi-2017-01.png" width="60%">
@@ -50,28 +43,6 @@
 
 ---
 
-## Crystal-lang [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
-
-<img src="assets/images/google-group-01-all.png" width="90%">
-
-
----
-
-<img src="assets/images/google-group-02-lldb-question.png" width="70%">
-
-###### lldbでローカル変数の値が見れないんだけど
-###### どうしたらいい？
-
-
----
-
-<img src="assets/images/google-group-03-answer.png" width="50%">
-
-###### 「やぁ、おじいちゃん」
-
-
----
-
 <img src="assets/images/blog-02-clim.png" width="70%">
 
 ###### [１秒でも早くCLIツールを作りたい by Crystal](http://at-grandpa.hatenablog.jp/entry/clim)
@@ -82,6 +53,21 @@
 <img src="assets/images/blog-03-des.png" width="70%">
 
 <span style="font-size: 35px;font-weight: 600;">[ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)</span>
+
+
+---
+
+<img src="assets/images/blog-title-04-method.png" width="70%">
+
+<span style="font-size: 25px;font-weight: 600;">[【ruby】 メソッド探索から見る、モジュール・特異メソッド・特異クラス](http://at-grandpa.hatenablog.jp/entry/2016/02/14/090544)</span>
+
+
+---
+
+<img src="assets/images/blog-title-05-keyword.png" width="70%">
+
+<span style="font-size: 25px;font-weight: 600;">[
+【ruby】キーワード引数のメソッド呼び出しは遅い！しかし2.2.0-preview2 以降で劇的に改善されていた話](http://at-grandpa.hatenablog.jp/entry/2016/03/07/091805)</span>
 
 
 ---

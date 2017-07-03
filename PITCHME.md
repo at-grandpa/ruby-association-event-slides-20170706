@@ -37,8 +37,6 @@
 
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
 - github: [@at-grandpa](https://github.com/at-grandpa)
-###### 　
-###### I love Crystal lang.
 
 ---
 

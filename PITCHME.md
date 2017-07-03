@@ -869,14 +869,18 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 Crystal language
 
-- 爆発的な普及はしていないが、順当に成長してそう
+- 爆発的な普及ではないが、順当に成長してそう
 - どこか大きな実用事例が欲しい
 - Parallelismの完成度が一つの鍵だと思う
   - パフォーマンス
   - 安定性
 - 注目している人は確実に増えている
 - 理解しやすさは参入障壁を下げそう
-  - コンパイラも読める人も増えそう
+  - コンパイラを読める人も増えそう
+
+---
+
+# Let's Contribute to Crystal 💻
 
 ---
 

@@ -801,7 +801,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Macros
 
 - 「1.0以降でMacrosに Breaking-changes を入れたくない！」 |
-  - AST触ったり、コンパイルプロセスにフックできたりするので
+  - AST触ったり、compile-processにフックできたりするので
   - 影響範囲大
 
 
@@ -830,19 +830,21 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Parallelism?
 
-- 2017/04/29 : [Wik - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support) |
+- 2017/04/29 : Wikに Thread support のページが作成される
+  - [Wik - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support) |
   - multithread-enabled Fibers の使い方
   - 本番運用はNG、実験的ならOK
 - Random notes |
   - Schedulerがreentrant-safeではない
   - その対応をsingle-msqueueブランチで開発中
-- 最終コミットは３ヶ月前 |
+    - 最終コミットは３ヶ月前 |
 
 ---
 
 ### Windows support?
 
-- [WIP -  Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
+- 一つのPRの中で議論中
+  - [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
 - 昔は開発者の中にWindowsを使っている人がいなくて、開発がなかなか進まなかった |
 - しかし、Windowsユーザーの比率等を考慮すると重要だという結論になった |
 - 直近でも議論が行われている |

@@ -5,8 +5,9 @@
 - 資料は公開済みです
   - [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
 - 実況ツイートなど大歓迎です
-- スライド中のリンクはクリックできます
-  -  GitPitch便利
+-  GitPitch便利
+  - スライド中のリンクはクリックできます
+  - スマホでもそれなりに見れます
 
 ---
 

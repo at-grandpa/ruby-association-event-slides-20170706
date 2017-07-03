@@ -72,17 +72,6 @@
 
 ---
 
-## Crystal周りの活動
-
-- たまにissue作ったり
-- たまにPR作ったり
-- ライブラリ書いたり
-- 勉強会開いたり
-- 技術書典２で頒布したり
-
-
----
-
 ## Crystal勉強会 #4 in 渋谷
 
 <img src="assets/images/blog-04-study-crystal.png" width="80%">

@@ -757,7 +757,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-###### The road towards a 1.0 release
+### The road towards a 1.0 release
 
 
 ---

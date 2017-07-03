@@ -857,7 +857,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 - 2017/05/31 : Crystal core team による Q&A session のライブ配信 |
   - youtubeでライブ配信された
   - [録画したものはこちら](https://www.youtube.com/watch?v=E25AGpYyQw0)
-- 2017/06/27 : manページの追加
+- 2017/06/27 : manページの追加 |
   - v0.23.0から
 
 ---
@@ -866,4 +866,17 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
+Crystal language
 
+- 爆発的な普及はしていないが、順当に成長してそう
+- どこか大きな実用事例が欲しい
+- Parallelismの完成度が一つの鍵だと思う
+  - パフォーマンス
+  - 安定性
+- 注目している人は確実に増えている
+- 理解しやすさは参入障壁を下げそう
+  - コンパイラも読める人も増えそう
+
+---
+
+# Happy Crystalling 🎉

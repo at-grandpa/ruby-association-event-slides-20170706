@@ -810,50 +810,50 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Syntax
 
 - (Macrosと同様)1.0以降ではSyntaxは固定する |
-- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上1.0を迎える |
+- 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で1.0を迎える |
 
 ---
 
 ## Next Steps
 
-- まずは並列処理
-- 次にWindowsサポート
-- 参入障壁を下げる
-  - ガイドライン整備
-  - githubのラベルの付け直し
+- まずは並列処理 |
+- 次にWindowsサポート |
+- 参入障壁を下げる |
 
 ---
 
-###### ここまでは年末の話
-#### この半年でどうなったか
+###### ここまでは昨年末の話
+
+## この半年でどうなったか
 
 ---
 
 ### Parallelism?
 
 - 2017/04/29 : [Wik - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support) |
-  - multithread-enabled Fibers を使用するためのWiki
+  - multithread-enabled Fibers の使い方
+  - 本番運用はNG、実験的ならOK
 - Random notes |
   - Schedulerがreentrant-safeではない
-  - その対応をsingle-msqueueブランチで開発している
+  - その対応をsingle-msqueueブランチで開発中
 - 最終コミットは３ヶ月前 |
 
 ---
 
 ### Windows support?
 
-- [WIP -  Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
-- 昔は開発者の中にWindowsを使っている人がいなくて、開発がなかなか進まなかった
-- しかし、Windowsユーザーの比率等を考慮すると、重要だという結論になった
-- 直近２週間くらいで議論が続いている
-  - 停滞はしていない、活発
+- [WIP -  Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
+- 昔は開発者の中にWindowsを使っている人がいなくて、開発がなかなか進まなかった |
+- しかし、Windowsユーザーの比率等を考慮すると重要だという結論になった |
+- 直近でも議論が行われている |
 
 ---
 
 ### For newcomers
 
 - 2017/03/23 : Webサイトが新しくなった |
-- 2017/05/31 : Crystal core team による Q&A session のライブ配信
-  - [https://www.youtube.com/watch?v=E25AGpYyQw0](https://www.youtube.com/watch?v=E25AGpYyQw0)
+- 2017/05/31 : Crystal core team による Q&A session のライブ配信 |
+  - youtubeでライブ配信された
+  - [録画したものはこちら](https://www.youtube.com/watch?v=E25AGpYyQw0)
 - 2017/07/03 : manページの追加
 

@@ -766,7 +766,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Parallelism
 
 - 1.0に向けた一番大きな機能 |
-- Threadクラスは既に存在しているが、「Don't use this class」になっている |
+- Threadクラスは既に存在しているが「Don't use this class」になっている |
 - 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
 

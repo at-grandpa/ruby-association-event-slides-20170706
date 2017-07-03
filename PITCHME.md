@@ -880,8 +880,8 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-# Let's Contribute to Crystal 💻
+### Let's Contribute to Crystal 💻
 
 ---
 
-# Happy Crystalling 🎉
+## Happy Crystalling 🎉

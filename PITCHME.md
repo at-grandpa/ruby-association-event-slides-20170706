@@ -43,6 +43,10 @@
 
 ---
 
+## Crystal周りの活動
+
+---
+
 <img src="assets/images/blog-02-clim.png" width="70%">
 
 ###### [１秒でも早くCLIツールを作りたい by Crystal](http://at-grandpa.hatenablog.jp/entry/clim)
@@ -53,21 +57,6 @@
 <img src="assets/images/blog-03-des.png" width="70%">
 
 <span style="font-size: 35px;font-weight: 600;">[ちょっとしたdocker環境を素早く作れるツールを作った](http://at-grandpa.hatenablog.jp/entry/2017/06/22/090935)</span>
-
-
----
-
-<img src="assets/images/blog-title-04-method.png" width="70%">
-
-<span style="font-size: 25px;font-weight: 600;">[【ruby】 メソッド探索から見る、モジュール・特異メソッド・特異クラス](http://at-grandpa.hatenablog.jp/entry/2016/02/14/090544)</span>
-
-
----
-
-<img src="assets/images/blog-title-05-keyword.png" width="70%">
-
-<span style="font-size: 25px;font-weight: 600;">[
-【ruby】キーワード引数のメソッド呼び出しは遅い！しかし2.2.0-preview2 以降で劇的に改善されていた話](http://at-grandpa.hatenablog.jp/entry/2016/03/07/091805)</span>
 
 
 ---
@@ -92,6 +81,25 @@
 <img src="assets/images/techbookfest3.png" width="65%">
 
 <span style="font-size: 20px;">技術書典３ - https://techbookfest.org/event/tbf03</span>
+
+
+---
+
+## Rubyにも触れています
+
+---
+
+<img src="assets/images/blog-title-04-method.png" width="70%">
+
+<span style="font-size: 25px;font-weight: 600;">[【ruby】 メソッド探索から見る、モジュール・特異メソッド・特異クラス](http://at-grandpa.hatenablog.jp/entry/2016/02/14/090544)</span>
+
+
+---
+
+<img src="assets/images/blog-title-05-keyword.png" width="70%">
+
+<span style="font-size: 25px;font-weight: 600;">[
+【ruby】キーワード引数のメソッド呼び出しは遅い！しかし2.2.0-preview2 以降で劇的に改善されていた話](http://at-grandpa.hatenablog.jp/entry/2016/03/07/091805)</span>
 
 
 ---?image=assets/images/crystal-web-site-top.png&size=cover

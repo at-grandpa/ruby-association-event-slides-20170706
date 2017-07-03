@@ -412,7 +412,7 @@ puts [1, 2, 3].map(&.to_s)
 $ crystal tool expand --cursor macro.cr:10:3 macro.cr
 1 expansion found
 expansion 1:
-   define_getter(year, month, date, hour, min, sec)
+   define_getter(year, month, date)
 
 ~> def year
      @year

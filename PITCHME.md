@@ -775,7 +775,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - Windowsのサポートへの期待は大きい |
 - Cross-platform desktop apps |
-- aaa [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) |
+- [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582) aaa |
   - WindowsサポートへのRoadmap
 
 ---

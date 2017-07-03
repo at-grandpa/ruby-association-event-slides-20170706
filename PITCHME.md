@@ -867,7 +867,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-Crystal language
+## Crystal language
 
 - 爆発的な普及ではないが、順当に成長してそう
 - どこか大きな実用事例が欲しい

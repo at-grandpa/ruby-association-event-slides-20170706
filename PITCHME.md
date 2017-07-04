@@ -803,7 +803,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 ### Parallelism?
 
 - 2017/04/29 : Wik に Thread support ページ |
-  - [Wik - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
+  - [Wiki - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
   - multithread-enabled Fibers の使い方
   - 本番運用はNG、実験的ならOK
 - Random notes |

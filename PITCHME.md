@@ -142,8 +142,8 @@
 
 ## 話すこと 🙆
 
-- Crystalってどんな言語なの？
-- Crystalの現状ってどうなの？
+- Crystalとはどんな言語なのか
+- Crystalの現状はどうなのか
 
 ---
 
@@ -160,7 +160,7 @@
 
 ---
 
-## What language is Crystal?
+## Crystalとはどんな言語なのか
 
 ---
 

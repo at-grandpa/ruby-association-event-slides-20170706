@@ -616,9 +616,15 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+<img src="assets/images/shards-2000-over.png" width="60%">
+
+<span style="font-size: 20px;">2000 packages 🎉</span>
+
 ---
 
-## A survey on Crystal
+---
+
+## Crystalの現状はどうなのか
 
 ---
 
@@ -630,7 +636,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-## History of Crystal
+## Crystalの歴史
 
 ---
 
@@ -767,7 +773,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-## Exciting Issue or PR
+## Exciting Issue or PR 👻
 
 ---
 

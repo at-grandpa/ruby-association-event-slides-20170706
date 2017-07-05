@@ -745,7 +745,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-- 新しい世代の中では１〜２年遅れていそう |
+- 新しい世代の中では１〜２年遅れていそう
 - キラーアプリ/キラーライブラリがない |
   - kemal?
 - 実用事例が少ない |
@@ -763,6 +763,9 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+<span style="font-size: 30px;">ちょっと息抜きに</span>
+
+###### Crystalの歴史を追う時に見つけた
 ## Exciting Issue or PR 👻
 
 ---

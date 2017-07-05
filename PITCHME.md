@@ -206,7 +206,7 @@ puts ["abc", "def", "ghi"].map do |arg|
 end
 # => ["CBA", "FED", "IHG"]
 
-# ditto
+# 上と同じ
 puts ["abc", "def", "ghi"].map(&.upcase.reverse)
 ```
 @[1-4](block引数が１つ & メソッド呼び出しのみ)
@@ -270,7 +270,7 @@ class MacroSample
   end
 end
 
-# ditto
+# 上と同じ
 class MacroSample
   macro define_getter(*names)
     {% for name in names %}
@@ -285,6 +285,56 @@ end
 ```
 @[2-12](定型的なメソッド)
 @[15-26](Macroを使ってまとめる)
+
+---
+
+### Macros example
+
+```crystal
+class MacroSample
+  macro define_print(property_name, type, default)
+    property {{property_name.id}} : {{type}} = {{default}}
+
+    def print
+      puts {{property_name.id}}
+    end
+  end
+
+  macro define_property_print_from_hash(hash_arr)
+    {% for hash in hash_arr %}
+      define_print({{hash[:name]}}, {{hash[:type]}}, {{hash[:default]}})
+    {% end %}
+  end
+
+  define_property_print_from_hash([
+    {name: "hoge_string",      type: String,       default: ""},
+    {name: "hoge_bool",        type: Bool,         default: false},
+    {name: "hoge_array_int32", type: Array(Int32), default: [1, 2, 3]},
+  ])
+end
+
+
+# compile時に生成されるコード
+property(hoge_string : String = "")
+def print
+  puts(hoge_string)
+end
+
+property(hoge_bool : Bool = false)
+def print
+  puts(hoge_bool)
+end
+
+property(hoge_array_int32 : Array(Int32) = [1, 2, 3])
+def print
+  puts(hoge_array_int32)
+end
+```
+@[1-21](macroの定義)
+@[2-8](propertyとメソッドのコード生成)
+@[10-14](コード生成macroをループ（macro内でmacro呼び出し）)
+@[16-20](macro呼び出し)
+@[23-37](compile時に生成されるコード)
 
 ---
 
@@ -884,6 +934,12 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Let's Contribute to Crystal 💻
 
+
 ---
 
 ## Happy Crystalling 🎉
+
+```
+$ brew update
+$ brew install crystal-lang
+```

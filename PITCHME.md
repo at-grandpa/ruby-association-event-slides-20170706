@@ -132,7 +132,6 @@
 - 静的型チェック
 
 </br>
-
 <span style="font-size: 30px;">他にもあります</span>
 
 ---

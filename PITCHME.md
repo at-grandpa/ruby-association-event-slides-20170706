@@ -576,7 +576,7 @@ $ crystal run src/kemal_test.cr
 
 <img src="assets/images/awesome-crystal.png" width="60%">
 
-<span style="font-size: 20px;">http://awesome-crystal.com/</span>
+<span style="font-size: 30px;">http://awesome-crystal.com/</span>
 
 ---
 
@@ -584,7 +584,7 @@ $ crystal run src/kemal_test.cr
 
 <img src="assets/images/crystalshards-xyz.png" width="60%">
 
-<span style="font-size: 20px;">http://crystalshards.xyz/</span>
+<span style="font-size: 30px;">http://crystalshards.xyz/</span>
 
 ---
 

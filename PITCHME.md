@@ -125,11 +125,13 @@
 
 ---
 
-## Crystalの特徴
+## Crystal lang
 
 - Ruby風のわかりやすいSyntax
 - パフォーマンス
 - 静的型チェック
+
+<span style="font-size: 30px;">他にもあります</span>
 
 ---
 

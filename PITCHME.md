@@ -283,31 +283,22 @@ end
 
 ---
 
-### Macros sample2
+### Macros Sample2
 
 ```crystal
-class MacroSample
-  macro define_print(property_name, type, default)
-    property {{property_name.id}} : {{type}} = {{default}}
+class MacroSample2
+  macro define_print(name, type, default)
+    property {{name.id}} : {{type}} = {{default}}
 
     def print
-      puts {{property_name.id}}
+      puts {{name.id}}
     end
   end
 
-  macro define_print_from_hash_arr(hash_arr)
-    {% for hash in hash_arr %}
-      define_print({{hash[:name]}}, {{hash[:type]}}, {{hash[:default]}})
-    {% end %}
-  end
-
-  define_print_from_hash_arr([
-    {name: "hoge_string",      type: String,       default: ""},
-    {name: "hoge_bool",        type: Bool,         default: false},
-    {name: "hoge_array_int32", type: Array(Int32), default: [1, 2, 3]},
-  ])
+  define_print(name: "hoge_string",      type: String,       default: "")
+  define_print(name: "hoge_bool",        type: Bool,         default: false)
+  define_print(name: "hoge_array_int32", type: Array(Int32), default: [1, 2, 3])
 end
-
 
 # compile時に生成されるコード
 property(hoge_string : String = "")
@@ -326,9 +317,8 @@ def print
 end
 ```
 @[2-8](propertyとメソッドのコード生成)
-@[10-14](コード生成macroをループ)
-@[16-20](macro呼び出し)
-@[23-38](compile時に生成されるコード)
+@[10-12](macro呼び出し)
+@[15-28](compile時に生成されるコード)
 
 ---
 

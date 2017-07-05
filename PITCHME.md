@@ -763,37 +763,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-<span style="font-size: 40px;">ここでちょっと息抜き</span>
-
----
-
-<span style="font-size: 30px;">Crystalの歴史を追う中で見つけた</span>
-
-## Exciting Issue or PR 👻
-
----
-
-##### What to do with global variables? #3139
-
-<img src="assets/images/issue-pr-remove-global-variables.png" width="60%">
-
-###### The global variable has been removed in v0.19.0
-
-<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/issues/3139</span>
-
----
-
-##### Add intro sort to Array #3514
-
-<img src="assets/images/issue-pr-add-intro-sort.png" width="60%">
-
-###### [Introsort - Wikipedia](https://en.wikipedia.org/wiki/Introsort)
-
-<span style="font-size: 20px;">https://github.com/crystal-lang/crystal/pull/3514</span>
-
----
-
-## The future of Crystal
+## Crystalの現状
 
 ---
 
@@ -811,7 +781,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-### The road towards a 1.0 release
+### 1.0のリリースに向けて
 
 
 ---
@@ -820,8 +790,13 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - 1.0に向けた一番大きな機能 |
 - Threadクラスは既に存在しているが「Don't use this class」になっている |
-- 実験的ではあるが、multithread-enabled Fibers を使用するためのWikiがある |
+- multithread-enabled Fibers を使用するためのWikiがある |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
+  - 本番運用はNG、実験的ならOK
+- Random notes |
+  - Schedulerがreentrant-safeではない
+  - その対応をsingle-msqueueブランチで開発中
+    - 最終コミットは３ヶ月前
 
 ---
 
@@ -831,6 +806,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 - Cross-platform desktop apps |
 - WindowsサポートへのRoadmap |
   - [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
+- 直近でも議論が行われている |
 
 ---
 
@@ -848,7 +824,8 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
   - RedditやGoogle-Groupでも話題に挙がる
 - 特にMacros周りが遅い |
   - コンパイル時にコードを生成しているので
-- v1.0にはmustではないという認識なので、後回しになるかも |
+- v1.0にはmustではないという認識 |
+  - 後回しになるかも
 
 ---
 
@@ -868,43 +845,6 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-## Next Steps
-
-- まずは並列処理 |
-- 次にWindowsサポート |
-- 参入障壁を下げる |
-
----
-
-###### ここまでは昨年末の話
-
-## この半年でどうなったか
-
----
-
-### Parallelism?
-
-- 2017/04/29 : Wik に Thread support ページ |
-  - [Wiki - Thread support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
-  - multithread-enabled Fibers の使い方
-  - 本番運用はNG、実験的ならOK
-- Random notes |
-  - Schedulerがreentrant-safeではない
-  - その対応をsingle-msqueueブランチで開発中
-    - 最終コミットは３ヶ月前
-
----
-
-### Windows support?
-
-- 一つのPRの中で議論中 |
-  - [WIP - Windows #3582](https://github.com/crystal-lang/crystal/pull/3582)
-- 昔は開発者の中にWindowsを使っている人がいなくて、開発がなかなか進まなかった |
-- しかし、Windowsユーザーの比率等を考慮すると重要だという結論になった |
-- 直近でも議論が行われている |
-
----
-
 ### For newcomers
 
 - 2017/03/23 : Webサイトが新しくなった |
@@ -920,7 +860,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ---
 
-## Crystal language
+## まとめ
 
 - 爆発的な普及ではないが、順当に成長してそう
 - どこか大きな実用事例が欲しい

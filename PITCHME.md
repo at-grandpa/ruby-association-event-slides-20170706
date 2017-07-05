@@ -119,7 +119,7 @@
 
 ---
 
-###### 今日の目的
+<span style="font-size: 30px;">今日の目的</span>
 
 ### Crystalに興味を持っていただく⭐️
 

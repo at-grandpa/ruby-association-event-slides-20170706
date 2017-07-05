@@ -479,9 +479,9 @@ expansion 1:
 
 - rubyの`bundler`的存在
 - `shards.yml`に設定記述
+- `shards.lock`を生成
 - githubのリポジトリ指定
   - branchやタグを指定可能
-- `shards.lock`を生成
 
 ---
 

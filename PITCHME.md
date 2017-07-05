@@ -288,7 +288,7 @@ end
 
 ---
 
-### Macros example
+### Macros sample2
 
 ```crystal
 class MacroSample
@@ -300,13 +300,13 @@ class MacroSample
     end
   end
 
-  macro define_property_print_from_hash(hash_arr)
+  macro define_print_from_hash_arr(hash_arr)
     {% for hash in hash_arr %}
       define_print({{hash[:name]}}, {{hash[:type]}}, {{hash[:default]}})
     {% end %}
   end
 
-  define_property_print_from_hash([
+  define_print_from_hash_arr([
     {name: "hoge_string",      type: String,       default: ""},
     {name: "hoge_bool",        type: Bool,         default: false},
     {name: "hoge_array_int32", type: Array(Int32), default: [1, 2, 3]},
@@ -330,11 +330,10 @@ def print
   puts(hoge_array_int32)
 end
 ```
-@[1-21](macroの定義)
 @[2-8](propertyとメソッドのコード生成)
-@[10-14](コード生成macroをループ（macro内でmacro呼び出し）)
+@[10-14](コード生成macroをループ)
 @[16-20](macro呼び出し)
-@[23-37](compile時に生成されるコード)
+@[23-38](compile時に生成されるコード)
 
 ---
 
@@ -478,6 +477,142 @@ expansion 1:
 ```
 
 - カーソル位置のMacrosを展開
+
+---
+
+## Library周り
+
+---
+
+## shards
+
+- rubyの`bundler`的存在
+- `shards.yml`に設定記述
+- githubのリポジトリ指定
+  - branchやタグを指定可能
+- `shards.lock`を生成
+
+---
+
+###### ライブラリをinstallするまでの流れ
+
+```
+$ crystal init app kemal_test
+      create  kemal_test/.gitignore
+      create  kemal_test/.editorconfig
+      create  kemal_test/LICENSE
+      create  kemal_test/README.md
+      create  kemal_test/.travis.yml
+      create  kemal_test/shard.yml
+      create  kemal_test/src/kemal_test.cr
+      create  kemal_test/src/kemal_test/version.cr
+      create  kemal_test/spec/spec_helper.cr
+      create  kemal_test/spec/kemal_test_spec.cr
+Initialized empty Git repository in /path/to/kemal_test/.git/
+$ cd kemal_test
+$ vim shard.yml
+$ cat shard.yml
+name: kemal_test
+version: 0.1.0
+
+authors:
+  - at-grandpa
+
+targets:
+  kemal_test:
+    main: src/kemal_test.cr
+
+crystal: 0.23.0
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+$ shards install
+Updating https://github.com/kemalcr/kemal.git
+Updating https://github.com/luislavena/radix.git
+Updating https://github.com/jeromegn/kilt.git
+Installing kemal (master)
+Installing radix (0.3.8)
+Installing kilt (0.4.0)
+$ ls -1 lib
+kemal
+kilt
+radix
+
+$ vim src/kemal_test.cr
+$ cat src/kemal_test.cr
+require "./kemal_test/*"
+require "kemal"
+
+get "/" do
+  "Hello World!"
+end
+
+Kemal.run
+
+$ crystal run src/kemal_test.cr
+[development] Kemal is ready to lead at http://0.0.0.0:3000
+```
+@[1](`Crystal init`コマンドで雛形を生成)
+@[2-12](雛形が生成される)
+@[13]()
+@[14](`shads.yml`を編集)
+@[15]()
+@[16-34]()
+@[30-33](`kemal`を記述)
+@[35](依存ライブラリをinstall)
+@[36-41](install完了)
+@[42-46](libディレクトリに存在)
+@[47](ソースコードを編集)
+@[48]()
+@[49-57](`require`できる)
+@[58-59](実行できる)
+
+---
+
+### ライブラリを紹介しているサイト
+
+
+---
+
+### AWESOME CRYSTAL
+
+<img src="assets/images/awesome-crystal.png" width="60%">
+
+<span style="font-size: 20px;">http://awesome-crystal.com/</span>
+
+---
+
+### CrystalShards
+
+<img src="assets/images/crystalshards-xyz.png" width="60%">
+
+<span style="font-size: 20px;">http://crystalshards.xyz/</span>
+
+---
+
+### 有名どころ
+
+- [kemal](http://kemalcr.com/)
+  - Sinatraライクな web framework
+- [amber](http://www.ambercr.io/)
+  - Railsライクな web framework
+  - CLIツールもある
+- [sidekiq.cr](http://www.mikeperham.com/2016/05/25/sidekiq-for-crystal/)
+  - sidekiq作者が自ら制作
+
+---
+
+### 注目
+
+- [graphql-crystal](https://github.com/ziprandom/graphql-crystal)
+  - まだbeta版
+- [scry](https://github.com/kofno/scry)
+  - LSP対応の code analysis server
 
 ---
 
@@ -629,142 +764,6 @@ expansion 1:
 
 ### なかなか突出できてないが
 ### 言語としては順当に成長している
-
----
-
-## Library
-
----
-
-## shards
-
-- rubyの`bundler`的存在
-- `shards.yml`に設定記述
-- githubのリポジトリ指定
-  - branchやタグを指定可能
-- `shards.lock`を生成
-
----
-
-###### ライブラリをinstallするまでの流れ
-
-```
-$ crystal init app kemal_test
-      create  kemal_test/.gitignore
-      create  kemal_test/.editorconfig
-      create  kemal_test/LICENSE
-      create  kemal_test/README.md
-      create  kemal_test/.travis.yml
-      create  kemal_test/shard.yml
-      create  kemal_test/src/kemal_test.cr
-      create  kemal_test/src/kemal_test/version.cr
-      create  kemal_test/spec/spec_helper.cr
-      create  kemal_test/spec/kemal_test_spec.cr
-Initialized empty Git repository in /path/to/kemal_test/.git/
-$ cd kemal_test
-$ vim shard.yml
-$ cat shard.yml
-name: kemal_test
-version: 0.1.0
-
-authors:
-  - at-grandpa
-
-targets:
-  kemal_test:
-    main: src/kemal_test.cr
-
-crystal: 0.23.0
-
-license: MIT
-
-dependencies:
-  kemal:
-    github: kemalcr/kemal
-    branch: master
-
-$ shards install
-Updating https://github.com/kemalcr/kemal.git
-Updating https://github.com/luislavena/radix.git
-Updating https://github.com/jeromegn/kilt.git
-Installing kemal (master)
-Installing radix (0.3.8)
-Installing kilt (0.4.0)
-$ ls -1 lib
-kemal
-kilt
-radix
-
-$ vim src/kemal_test.cr
-$ cat src/kemal_test.cr
-require "./kemal_test/*"
-require "kemal"
-
-get "/" do
-  "Hello World!"
-end
-
-Kemal.run
-
-$ crystal run src/kemal_test.cr
-[development] Kemal is ready to lead at http://0.0.0.0:3000
-```
-@[1](`Crystal init`コマンドで雛形を生成)
-@[2-12](雛形が生成される)
-@[13]()
-@[14](`shads.yml`を編集)
-@[15]()
-@[16-34]()
-@[30-33](`kemal`を記述)
-@[35](依存ライブラリをinstall)
-@[36-41](install完了)
-@[42-46](libディレクトリに存在)
-@[47](ソースコードを編集)
-@[48]()
-@[49-57](`require`できる)
-@[58-59](実行できる)
-
----
-
-### ライブラリを紹介しているサイト
-
-
----
-
-### AWESOME CRYSTAL
-
-<img src="assets/images/awesome-crystal.png" width="60%">
-
-<span style="font-size: 20px;">http://awesome-crystal.com/</span>
-
----
-
-### CrystalShards
-
-<img src="assets/images/crystalshards-xyz.png" width="60%">
-
-<span style="font-size: 20px;">http://crystalshards.xyz/</span>
-
----
-
-### 有名どころ
-
-- [kemal](http://kemalcr.com/)
-  - Sinatraライクな web framework
-- [amber](http://www.ambercr.io/)
-  - Railsライクな web framework
-  - CLIツールもある
-- [sidekiq.cr](http://www.mikeperham.com/2016/05/25/sidekiq-for-crystal/)
-  - sidekiq作者が自ら制作
-
----
-
-### 注目
-
-- [graphql-crystal](https://github.com/ziprandom/graphql-crystal)
-  - まだbeta版
-- [scry](https://github.com/kofno/scry)
-  - LSP対応の code analysis server
 
 ---
 

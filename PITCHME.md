@@ -699,19 +699,16 @@ $ crystal run src/kemal_test.cr
 
 <span style="font-size: 20px;">https://www.meetup.com/Crystal-Language-Buenos-Aires/events/227938900/</span>
 
+---
+
+## Crystalの成長スピードをみてみる
+
+- Star推移は言語の成長と相関がありそう
+- 他の言語と比べてみる
 
 ---
 
-## Github Stars 🌟
-
----
-
-### Current stargazers
-##### [crystal-lang/crystal/stargazers](https://github.com/crystal-lang/crystal/stargazers)
-
----
-
-### Star history 📈
+### Github Star history 📈
 
 ###### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
 

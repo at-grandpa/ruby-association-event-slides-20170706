@@ -477,6 +477,12 @@ expansion 1:
 
 ---
 
+<img src="assets/images/shards-2000-over.png" width="50%">
+
+<span style="font-size: 60px;font-weight: 600;">2000 packages 🎉</span>
+
+---
+
 ## shards
 
 - rubyの`bundler`的存在
@@ -609,12 +615,6 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-<img src="assets/images/shards-2000-over.png" width="50%">
-
-<span style="font-size: 60px;font-weight: 600;">2000 packages 🎉</span>
-
----
-
 ---
 
 ## Crystalの現状はどうなのか
@@ -701,16 +701,16 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-## Crystalの成長スピードをみてみる
-
-- Star推移は言語の成長と相関がありそう
-- 他の言語と比べてみる
+## Crystalの成長スピードは？
 
 ---
 
 ### Github Star history 📈
 
 ###### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
+
+- Star推移は言語の成長と相関がありそう
+- 他の言語と比べてみる
 
 ---
 

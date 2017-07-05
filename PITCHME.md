@@ -767,12 +767,6 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### What 1.0 means
-
-The fundamental idea behind achieving a 1.0 milestone is to reach a point where breaking changes to the core of the language are down to a minimum.
-
----
-
 ### Parallelism
 
 - 1.0に向けた一番大きな機能 |

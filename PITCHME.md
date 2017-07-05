@@ -763,7 +763,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-## Crystalの現状
+## 1.0のリリースに向けて
 
 ---
 
@@ -778,11 +778,6 @@ $ crystal run src/kemal_test.cr
 ### What 1.0 means
 
 The fundamental idea behind achieving a 1.0 milestone is to reach a point where breaking changes to the core of the language are down to a minimum.
-
----
-
-### 1.0のリリースに向けて
-
 
 ---
 

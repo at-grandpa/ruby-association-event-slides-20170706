@@ -47,7 +47,9 @@
 
 ---
 
-<img src="assets/images/blog-title-04-method.png" width="55%">
+<span style="font-size: 40px;font-weight: 600;">[圧倒亭グランパのブログ](http://at-grandpa.hatenablog.jp/)</span>
+
+<img src="assets/images/blog-title-04-method.png" width="50%">
 
 <span style="font-size: 25px;font-weight: 600;">[【ruby】 メソッド探索から見る、モジュール・特異メソッド・特異クラス](http://at-grandpa.hatenablog.jp/entry/2016/02/14/090544)</span>
 

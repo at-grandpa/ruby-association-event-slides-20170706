@@ -785,10 +785,9 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 - 1.0に向けた一番大きな機能 |
 - Threadクラスは既に存在しているが「Don't use this class」になっている |
-- multithread-enabled Fibers を使用するためのWikiがある |
+- multithread-enabled Fibers を使用するためのWiki |
   - [Crystal-lang wiki - Threads support](https://github.com/crystal-lang/crystal/wiki/Threads-support)
   - 本番運用はNG、実験的ならOK
-- Random notes |
   - Schedulerがreentrant-safeではない
   - その対応をsingle-msqueueブランチで開発中
     - 最終コミットは３ヶ月前
@@ -826,7 +825,7 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Macros
 
-- 「1.0以降でMacrosに Breaking-changes を入れたくない！」 |
+- 「1.0以降で Breaking-changes を入れたくない！」 |
   - AST触ったり、compile-processにフックできたりするので
   - 影響範囲大
 
@@ -835,18 +834,18 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Syntax
 
-- (Macrosと同様)1.0以降ではSyntaxは固定する |
+- 1.0以降ではSyntaxは固定する |
 - 今後は大きな変更はないと思うが、さらにしっかりとレビューした上で1.0を迎える |
 
 ---
 
 ### For newcomers
 
-- 2017/03/23 : Webサイトが新しくなった |
-- 2017/05/31 : Crystal core team による Q&A session |
+- 最近Webサイトが新しくなった |
+- Crystal core team による Q&A session |
   - youtubeライブ配信
   - [録画したものはこちら](https://www.youtube.com/watch?v=E25AGpYyQw0)
-- 2017/06/27 : manページの追加 |
+- manページの追加 |
   - v0.23.0から
 
 ---

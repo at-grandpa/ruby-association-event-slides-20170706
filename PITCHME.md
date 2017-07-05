@@ -763,11 +763,11 @@ $ crystal run src/kemal_test.cr
 
 ---
 
+<span style="font-size: 40px;">ここでちょっと息抜き</span>
+
 ---
 
-<span style="font-size: 30px;">ちょっと息抜きに</span>
-
-<span style="font-size: 40px;">Crystalの歴史を追う時に見つけたちょっと息抜きに</span>
+<span style="font-size: 25px;">Crystalの歴史を追う中で見つけた</span>
 
 ## Exciting Issue or PR 👻
 

@@ -226,7 +226,7 @@ a.to_s # => String
 a + 1  # Error, because String#+(Int32) isn't defined
 ```
 @[1-5](ifの分岐で型が異なる)
-@[7](Int32 | String の型を持つ)
+@[7](Int32 | String という型を持つ)
 @[8](両型に存在するメソッドは呼べる)
 @[9](片方にしか存在しないメソッドは呼べない)
 

@@ -705,7 +705,7 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-### Github Star history 📈
+## Github Star history 📈
 
 ###### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
 

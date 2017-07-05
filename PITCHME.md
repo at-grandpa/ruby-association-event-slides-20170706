@@ -707,7 +707,7 @@ $ crystal run src/kemal_test.cr
 
 ## Github Star history 📈
 
-###### [http://www.timqian.com/star-history/](http://www.timqian.com/star-history/)
+<span style="font-size: 30px;font-weight: 600;">http://www.timqian.com/star-history/</span>
 
 - Star推移は言語の成長と相関がありそう
 - 他の言語と比べてみる

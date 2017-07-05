@@ -19,7 +19,7 @@
 
 ## RubyKaigi 2016
 
-<img src="assets/images/rubykaigi-2016-01.JPG" width="60%">
+<img src="assets/images/rubykaigi-2016-01.png" width="60%">
 
 ###### [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 

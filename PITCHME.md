@@ -609,9 +609,9 @@ $ crystal run src/kemal_test.cr
 
 ---
 
-<img src="assets/images/shards-2000-over.png" width="60%">
+<img src="assets/images/shards-2000-over.png" width="50%">
 
-<span style="font-size: 20px;">2000 packages 🎉</span>
+<span style="font-size: 40px;font-weight: 600;">2000 packages 🎉</span>
 
 ---
 

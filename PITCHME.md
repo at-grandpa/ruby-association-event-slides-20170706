@@ -287,8 +287,7 @@ def print
   puts(hoge_array_int32)
 end
 ```
-@[2-8](propertyとメソッドのコード生成)
-@[10-12](macro呼び出し)
+@[1-13](propertyとメソッドのコード生成)
 @[15-29](compile時に生成されるコード)
 
 ---

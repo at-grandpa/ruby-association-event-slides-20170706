@@ -4,8 +4,8 @@
 
 - 資料は公開済みです
   - [https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#](https://gitpitch.com/at-grandpa/ruby-association-event-slides-20170706#)
-- 実況ツイートなど大歓迎です
   - 【TODO】#ハッシュタグ
+- 実況ツイートなど大歓迎です
 - GitPitch便利
   - 青文字のリンクはクリックできます
   - スマホでもそれなりに見れます

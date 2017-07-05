@@ -829,8 +829,9 @@ The fundamental idea behind achieving a 1.0 milestone is to reach a point where 
 
 ### Macros
 
-- 「1.0以降で Breaking-changes を入れたくない！」 |
-  - AST触ったり、compile-processにフックできたりするので
+- 1.0以降で Breaking-changes 入れたくない！ |
+  - AST触ったりできるので
+  - compile-processにフックできたりするので
   - 影響範囲大
 
 

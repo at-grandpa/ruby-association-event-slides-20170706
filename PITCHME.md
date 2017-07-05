@@ -325,54 +325,17 @@ end
 
 ---
 
-### Generics
+### その他
 
-<span style="font-size: 20px;">Generics - https://crystal-lang.org/docs/syntax_and_semantics/generics.html</span>
+- Generics
+- abstract class
+- C Binding
+- Concurrency
+  - Fiber
+  - Event loop
+  - Channel
 
-```crystal
-class MyBox(T)
-  def initialize(@value : T)
-  end
-
-  def value
-    @value
-  end
-end
-
-int_box = MyBox(Int32).new(1)
-int_box.value # => 1 (Int32)
-
-string_box = MyBox(String).new("hello")
-string_box.value # => "hello" (String)
-
-another_box = MyBox(String).new(1) # Error, Int32 doesn't match String
-```
-@[1-8](大文字で型変数を定義)
-@[10-11](Int32のオブジェクトを生成)
-@[13-14](Stringのオブジェクトを生成)
-@[16](型が違うとError)
-
----
-
-### abstract class
-
-<span style="font-size: 20px;">Virtual and abstract types - https://crystal-lang.org/docs/syntax_and_semantics/virtual_and_abstract_types.html</span>
-
-```crystal
-# abstract.cr
-abstract class Animal
-  abstract def talk
-end
-
-class Dog < Animal
-end
-# Error in abstract.cr:2: abstract `def Animal#talk()` must be implemented by Dog
-#
-#   abstract def talk
-#                ^~~~
-```
-@[1-4](abstractメソッドを定義)
-@[6-11](存在しなければError)
+<span style="font-size: 20px;">Docs - https://crystal-lang.org/docs/</span>
 
 ---
 

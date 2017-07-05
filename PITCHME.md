@@ -14,28 +14,6 @@
 
 ---
 
-###### Matzさんの後で緊張しています🌀
-
----
-
-## RubyKaigi 2016
-
-<img src="assets/images/rubykaigi-2016-01.png" width="40%">
-
-###### [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
-
-
----
-
-## 🎉 RubyKaigi 2017 ⛩
-
-<img src="assets/images/rubykaigi-2017-01.png" width="60%">
-
-###### [http://rubykaigi.org/2017](http://rubykaigi.org/2017)
-
-
----
-
 <img src="assets/images/icon_512.jpg" width="30%">
 
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
@@ -125,16 +103,6 @@
 <span style="font-size: 30px;">今日の目的</span>
 
 ### Crystalに興味を持っていただく⭐️
-
----
-
-## Crystal lang
-
-- Ruby風のわかりやすいSyntax
-- パフォーマンス
-- 静的型チェック
-
-<span style="font-size: 30px;">他にもあります</span>
 
 ---
 
@@ -812,8 +780,7 @@ $ crystal run src/kemal_test.cr
 - 爆発的な普及ではないが、順当に成長してそう
 - どこか大きな実用事例が欲しい
 - Parallelismの完成度が一つの鍵だと思う
-  - パフォーマンス
-  - 安定性
+  - パフォーマンスと安定性
 - 注目している人は確実に増えている
 - 理解しやすさは参入障壁を下げそう
   - コンパイラを読める人も増えそう

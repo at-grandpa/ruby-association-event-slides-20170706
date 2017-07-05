@@ -7,7 +7,7 @@
 - 実況ツイートなど大歓迎です
   - 【TODO】#ハッシュタグ
 - GitPitch便利
-  - スライド中のリンクはクリックできます
+  - 青文字のリンクはクリックできます
   - スマホでもそれなりに見れます
 - 個人の調査・見解の範囲です
 
@@ -19,7 +19,7 @@
 
 ## RubyKaigi 2016
 
-<img src="assets/images/rubykaigi-2016-01.png" width="60%">
+<img src="assets/images/rubykaigi-2016-01.png" width="40%">
 
 ###### [#rubyfriends](https://twitter.com/hashtag/rubyfriends?src=hash)  [#rubykaigi](https://twitter.com/hashtag/rubykaigi?src=hash)
 

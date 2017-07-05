@@ -551,7 +551,7 @@ $ crystal run src/kemal_test.cr
 @[1](`Crystal init`コマンドで雛形を生成)
 @[2-12](雛形が生成される)
 @[13]()
-@[14](`shads.yml`を編集)
+@[14](`shards.yml`を編集)
 @[15]()
 @[16-34]()
 @[30-33](`kemal`を記述)

@@ -226,7 +226,7 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 <span style="font-size: 20px;">Macros - https://crystal-lang.org/docs/syntax_and_semantics/macros.html</span>
 
 ```crystal
-class MacroSample2
+class MacroSample
   macro define_print(name, type, default)
     property {{name.id}} : {{type}} = {{default}}
 
@@ -235,25 +235,13 @@ class MacroSample2
     end
   end
 
-  define_print(name: "hoge_string",      type: String,       default: "")
-  define_print(name: "hoge_bool",        type: Bool,         default: false)
-  define_print(name: "hoge_array_int32", type: Array(Int32), default: [1, 2, 3])
+  define_print(name: "hoge", type: String, default: "")
 end
 
 # compile時に生成されるコード
-property(hoge_string : String = "")
+property(hoge : String = "")
 def print
-  puts(hoge_string)
-end
-
-property(hoge_bool : Bool = false)
-def print
-  puts(hoge_bool)
-end
-
-property(hoge_array_int32 : Array(Int32) = [1, 2, 3])
-def print
-  puts(hoge_array_int32)
+  puts(hoge)
 end
 ```
 @[2-8](propertyとメソッドのmacro)
@@ -525,7 +513,7 @@ $ crystal run src/kemal_test.cr
 
 ## Crystalの歴史
 
-k--
+---
 
 #### Initial commit
 

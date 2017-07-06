@@ -296,7 +296,6 @@ end
 
 - Generics
 - abstract class
-- C Binding
 - Concurrency
   - Fiber
   - Event loop
@@ -555,14 +554,6 @@ $ crystal run src/kemal_test.cr
 ---
 
 ## Crystalの歴史
-
----
-
-#### The story behind #CrystalLang
-
-<img src="assets/images/the-story-behind-crystal-lang.png" width="55%">
-
-<span style="font-size: 20px;">https://manas.tech/blog/2016/04/01/the-story-behind-crystal.html</span>
 
 ---
 

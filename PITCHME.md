@@ -245,8 +245,8 @@ def print
 end
 ```
 @[2-8](propertyとメソッドのmacro)
-@[10-12](propertyとメソッドのmacro)
-@[15-29](compile時に生成されるコード)
+@[10](macro呼び出し)
+@[12-16](compile時に生成されるコード)
 
 ---
 

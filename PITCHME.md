@@ -14,6 +14,10 @@
 
 ---
 
+###### Matzさんの後で緊張しています🌀
+
+---
+
 <img src="assets/images/icon_512.jpg" width="30%">
 
 - twitter: [@at_grandpa](https://twitter.com/at_grandpa)
@@ -222,41 +226,6 @@ undefined method 'to_i' for Nil (compile-time type is (Array(Array(Bool | Float6
 <span style="font-size: 20px;">Macros - https://crystal-lang.org/docs/syntax_and_semantics/macros.html</span>
 
 ```crystal
-class MacroSample
-  def year
-    @year
-  end
-
-  def month
-    @month
-  end
-
-  def date
-    @date
-  end
-end
-
-# 上と同じ
-class MacroSample
-  macro define_getter(*names)
-    {% for name in names %}
-      def {{name}}
-        @{{name}}
-      end
-    {% end %}
-  end
-
-  define_getter year, month, date
-end
-```
-@[2-12](定型的なメソッド)
-@[15-26](Macroを使ってまとめる)
-
----
-
-### Macros Sample2
-
-```crystal
 class MacroSample2
   macro define_print(name, type, default)
     property {{name.id}} : {{type}} = {{default}}
@@ -287,7 +256,8 @@ def print
   puts(hoge_array_int32)
 end
 ```
-@[1-13](propertyとメソッドのコード生成)
+@[2-8](propertyとメソッドのmacro)
+@[10-12](propertyとメソッドのmacro)
 @[15-29](compile時に生成されるコード)
 
 ---
@@ -555,7 +525,7 @@ $ crystal run src/kemal_test.cr
 
 ## Crystalの歴史
 
----
+k--
 
 #### Initial commit
 

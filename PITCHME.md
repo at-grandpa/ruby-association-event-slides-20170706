@@ -271,7 +271,7 @@ end
   - Event loop
   - Channel
 
-<span style="font-size: 20px;">Docs - https://crystal-lang.org/docs/</span>
+<span style="font-size: 40px;">Docs - https://crystal-lang.org/docs/</span>
 
 ---
 
